@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/fragrances-under-25.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-07-24T11:58:28-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6624367837246</id>
+    <published>2021-07-24T11:58:28-04:00</published>
+    <updated>2021-07-24T11:58:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/katyperryindivisible-woman"/>
+    <title>Katy Perry Indi Visible For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Katy Perry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/KatyPerryIndiVisible-woman.jpg?v=1628529613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Katy Perry<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Katy Perry produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Katy Perry perfumes like Katy Perry Indi Visible f</span><span>or Woman,</span><span> with prices starting as low as $17. This fragrance retails for $32meaning you save even more and get the best possible deal. Get the best price on the newest Katy Perry celebrity perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6624367837246</id>
+      <title>Katy Perry Indi Visible EDP W 30ml Boxed</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>KPIVW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6603701846078</id>
+    <published>2021-06-23T10:28:27-04:00</published>
+    <updated>2021-06-23T10:28:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/cubagold-man"/>
+    <title>Cuba Gold For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/cubagold-man_bc20ecf5-da2e-4ce3-b810-a72bb51e0793.jpg?v=1624459326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            6.45 - 29.95
+            <a href="https://fragrancebuy.ca/products/cubagold-man">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Cuba produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Cuba perfumes like Cuba Gold </span><span>For Man,</span><span> with prices starting as low as $6.95. This fragrance retails for $20 meaning you save even more and get the best possible deal. Get the best price on the newest Cuba Gold perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6603701846078</id>
+      <title>Cuba Gold M 35Ml Boxed</title>
+      <s:price currency="CAD">6.45</s:price>
+      <s:sku>CUBM-35B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6603701846078</id>
+      <title>Cuba Gold M 100Ml Boxed</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>CUBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6603701846078</id>
+      <title>Tester - Cuba M 100ml Spray Tester</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>CUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6603701846078</id>
+      <title>Gift Set - Cuba Gold M 100Ml 3Pc Gift Set (Open Window)</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>CUBM3M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6603701846078</id>
+      <title>Bucket Set - Cuba Gold M  4Pc(EDT 100ml + A/S + Deo 200ml + EDT 35ml) Gift Set in Wooden Bucket</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>CUBGLDM5PCM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6603701846078</id>
+      <title>Mega Set - Cuba Gold M 4pc Blockbuster 4pc Set (w/ 100ml + AfterShave + ShowerGel + 35ml Bonus)</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku>CUBAMB4M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6603701846078</id>
+      <title>Super Blockbuster Set - Cuba Must Have M 100ml Gift Set (with AS, DEO, SG + 35ml Bonus)</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>CUBM5M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593365803070</id>
+    <published>2021-06-03T14:32:52-04:00</published>
+    <updated>2021-06-03T14:32:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/mustang50yedition-man"/>
+    <title>Mustang 50Y Edition For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>FordMustang</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Mustang50Y-man.jpg?v=1624038896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FordMustang<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Ford Mustang produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ford Mustang perfumes like Mustang 50Y Edition </span><span>For Man,</span><span> with prices starting as low as $11. This fragrance retails for $15 meaning you save even more and get the best possible deal. Get the best price on the newest Mustang 50Y Edition perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593365803070</id>
+      <title>Tester - Mustang 50Y Edition M 100ml Tester</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>MUS50YM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593297940542</id>
+    <published>2021-06-03T09:36:25-04:00</published>
+    <updated>2021-06-03T09:36:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/mustang50yedition-woman"/>
+    <title>Mustang 50Y Edition For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>FordMustang</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Mustang50Y-woman.jpg?v=1624038929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FordMustang<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Ford Mustang produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ford Mustang perfumes like Mustang 50Y Edition </span><span>For Woman,</span><span> with prices starting as low as $11. This fragrance retails for $15 meaning you save even more and get the best possible deal. Get the best price on the newest Mustang 50Y Edition perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593297940542</id>
+      <title>Tester - Mustang  50Y Edition W 100ml Tester</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>MUS50YW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593296531518</id>
+    <published>2021-06-03T09:27:43-04:00</published>
+    <updated>2021-06-03T09:27:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/marvelspiderman-man"/>
+    <title>Marvel Spiderman For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Marvel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/MarvelSpiderMan-man.jpg?v=1624038648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marvel<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Marvel produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Marvel perfumes like Marvel Spiderman </span><span>For Man,</span><span> with prices starting as low as $4. This fragrance retails for $25 meaning you save even more and get the best possible deal. Get the best price on the newest Marvel Spiderman perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593296531518</id>
+      <title>Tester - Marvel Spiderman M 100ml Tester</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>MARSPIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593296236606</id>
+    <published>2021-06-03T09:24:49-04:00</published>
+    <updated>2021-06-03T09:24:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/aubussonintense-man"/>
+    <title>Aubusson Intense For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Aubusson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/AubussonIntense-man.jpg?v=1624036663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aubusson<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Aubusson produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Aubusson perfumes like Aubusson Intense </span><span>For Man,</span><span> with prices starting as low as $4. This fragrance retails for $25 meaning you save even more and get the best possible deal. Get the best price on the newest Aubusson Intense perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593296236606</id>
+      <title>Tester - Aubusson Intense Man 100ml Tester</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>AUBIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593294467134</id>
+    <published>2021-06-03T09:18:57-04:00</published>
+    <updated>2021-06-03T09:18:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/aubusson-man"/>
+    <title>Aubusson Man For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Aubusson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Aubusson-man.jpg?v=1625008666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aubusson<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Aubusson produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Aubusson perfumes like Aubusson Man </span><span>For Man,</span><span> with prices starting as low as $4. This fragrance retails for $22 meaning you save even more and get the best possible deal. Get the best price on the newest Aubusson Man perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593294467134</id>
+      <title>Tester - Aubusson  Man 100ml Tester</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>AUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590870159422</id>
+    <published>2021-05-28T15:46:55-04:00</published>
+    <updated>2021-05-28T15:46:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/estiarakottonblossom-woman"/>
+    <title>Estiara Kotton Blossom For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Estiara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EstiaraKottonBlossom-woman.jpg?v=1622656286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Estiara<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            21.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: #fafbfc;">The house of Estiara produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Estiara perfumes like Estiara Kotton Blossom</span><span style="color: #637381;">,</span><span style="background-color: #fafbfc;"> with prices starting as low as 25. This fragrance retails for 57.00 meaning you save even more and get the best possible deal. Get the best price on the newest Estiara perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590870159422</id>
+      <title>Estiara Kotton Blossom W 100ml Boxed</title>
+      <s:price currency="CAD">21.45</s:price>
+      <s:sku>ESTKOTNBLSMW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6581681881150</id>
+    <published>2021-05-09T20:09:28-04:00</published>
+    <updated>2021-05-09T20:09:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/rasasirashaconcentratedperfumeoil-man"/>
+    <title>Rasasi Rasha Concentrated Perfume Oil For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Rasasi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RasasiRashaCPO-man.jpg?v=1621448715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rasasi<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Rasasi produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Rasasi perfumes like Rasha Concentrated Perfume Oil </span><span>For Man/Woman,</span><span> with prices starting as low as $23. This fragrance retails for $57 meaning you save even more and get the best possible deal. Get the best price on the newest Rasasi perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6581681881150</id>
+      <title>Rasasi Rasha Concentrated Perfume Oil M 12ml Boxed</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku>RASRSHACONPM-12B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6580679213118</id>
+    <published>2021-05-06T13:08:09-04:00</published>
+    <updated>2021-05-06T13:08:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/marvelvenom-man"/>
+    <title>Marvel Venom For Kids</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Marvel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/MarvelVenom-kids.jpg?v=1620835944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marvel<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            15.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Marvel produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Marvel perfumes like Marvel Venom </span><span>For Man/Woman,</span><span> with prices starting as low as $15. This fragrance retails for $23 meaning you save even more and get the best possible deal. Get the best price on the newest Marvel Venom perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6580679213118</id>
+      <title>Marvel Venom EDT M 100ml Boxed</title>
+      <s:price currency="CAD">15.87</s:price>
+      <s:sku>MARVENOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6580674461758</id>
+    <published>2021-05-06T13:00:05-04:00</published>
+    <updated>2021-05-06T13:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/elizabethardengreenteafig-woman"/>
+    <title>Elizabeth Arden Green Tea Fig For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ElizabethArdenGreenteaFig-woman.jpg?v=1620835824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Elizabeth Arden produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Elizabeth Arden perfumes like Elizabeth Arden Green Tea Fig </span><span>For Woman,</span><span> with prices starting as low as $41. This fragrance retails for $56 meaning you save even more and get the best possible deal. Get the best price on the newest Elizabeth Arden Green Tea Fig perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6580674461758</id>
+      <title>Elizabeth Arden Green Tea Fig EDT W 100ml Spray Boxed</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>GRETFIGW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6575802679358</id>
+    <published>2021-04-29T12:11:14-04:00</published>
+    <updated>2021-04-29T12:11:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/estiarablackfort-man"/>
+    <title>Estiara Black Fort For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Estiara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EstiaraBlackFortEDP-man.jpg?v=1620248755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Estiara<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Estiara produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Estiara perfumes like Estiara Black Fort </span><span>For Man,</span><span> with prices starting as low as $19.95. This fragrance retails for $37 meaning you save even more and get the best possible deal. Get the best price on the newest Estiara Black Fort perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6575802679358</id>
+      <title>Estiara Black Fort M 100ml Boxed</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>ESTBLCKFRTM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6575799009342</id>
+    <published>2021-04-29T12:04:24-04:00</published>
+    <updated>2021-04-29T12:04:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/estiarajoy-woman"/>
+    <title>Estiara Joy For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Estiara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EstiaraJoyEDP-woman.jpg?v=1620248825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Estiara<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Estiara produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Estiara perfumes like Estiara Joy </span><span>For Woman,</span><span> with prices starting as low as $19.95. This fragrance retails for $37 meaning you save even more and get the best possible deal. Get the best price on the newest Estiara Joy perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6575799009342</id>
+      <title>Estiara Joy EDP W 100ml Boxed</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>ESTJOYW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6575797403710</id>
+    <published>2021-04-29T12:00:58-04:00</published>
+    <updated>2021-04-29T12:00:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/estiarabluebird-woman"/>
+    <title>Estiara Blue Bird For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Estiara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EstiaraBlueBirdEDP-woman.jpg?v=1620248784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Estiara<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Estiara produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Estiara perfumes like Estiara Blue Bird </span><span>For Woman,</span><span> with prices starting as low as $19.95. This fragrance retails for $37 meaning you save even more and get the best possible deal. Get the best price on the newest Estiara Blue Bird perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6575797403710</id>
+      <title>Estiara Blue Bird EDP W 100ml Boxed</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>ESTBLUBIRDW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6570288119870</id>
+    <published>2021-04-12T12:52:09-04:00</published>
+    <updated>2021-04-12T12:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadajoyfulmoments-woman"/>
+    <title>Escada Joyful Moments For Woman</title>
+    <s:type>Tester</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EscadaJoyfulMoments-woman.jpg?v=1620248614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Tester<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like Joyful Moments </span><span>For Woman,</span><span> with prices starting as low as $15.95. This fragrance retails for $72 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6570288119870</id>
+      <title>Tester - Escada Joyful Moments EDP W 50ml Tester</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>ESCJOYFULW-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6569365700670</id>
+    <published>2021-04-09T10:14:23-04:00</published>
+    <updated>2021-04-09T10:14:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/tommybahamasstkitts-man"/>
+    <title>Tommy Bahamas St Kitts For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Tommy Bahamas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/TommyBahamaStKitts-man.jpg?v=1620836391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tommy Bahamas<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            25.00 - 35.00
+            <a href="https://fragrancebuy.ca/products/tommybahamasstkitts-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Tommy Bahamas produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Tommy Bahamas perfumes like Tommy Bahamas St Kitts </span><span>For Man,</span><span> with prices starting as low as $80. This fragrance retails for $95 meaning you save even more and get the best possible deal. Get the best price on the newest Tommy Bahamas St Kitts perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6569365700670</id>
+      <title>Tommy Bahamas St Kitts M 100ml Boxed</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TBSTKITM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6569365700670</id>
+      <title>Tester - Tommy Bahamas St Kitts M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>TOMBSTKM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6569365700670</id>
+      <title>Unboxed Slightly Damaged Tester - Tommy Bahamas St Kitts M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>TOMBSTKM-100G</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6569360851006</id>
+    <published>2021-04-09T09:46:27-04:00</published>
+    <updated>2021-04-09T09:46:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/brutaftershave-man"/>
+    <title>Brut After Shave For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Brut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/BrutAfterShave-man.jpg?v=1619036027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brut<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            12.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Brut produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Brut products like Brut After Shave </span><span>For Man,</span><span> with prices starting as low as $15. This fragrance retails for $30 meaning you save even more and get the best possible deal. Get the best price on the newest Brut After Shave online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftershave</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6569360851006</id>
+      <title>After Shave - Brut M 90ml After Shave Spray (Plastic)</title>
+      <s:price currency="CAD">12.59</s:price>
+      <s:sku>BRUTM-90A</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6568827617342</id>
+    <published>2021-04-07T19:50:38-04:00</published>
+    <updated>2021-04-07T19:50:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/insurrection-pure-ii-sport-edition-for-man"/>
+    <title>Insurrection Pure II Sport Edition For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Reyane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/InsurrectionPure2SportEdition-man.jpg?v=1618503889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reyane<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Reyane produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Reyaneperfumes like Insurrection Pure II Sport Edition </span><span>For Man,</span><span> with prices starting as low as $25. This fragrance retails for $68 meaning you save even more and get the best possible deal. Get the best price on the newest Reyane perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6568827617342</id>
+      <title>Insurrection Pure II Sport M 90ml Boxed</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>INSPUR2SPOM-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6568142897214</id>
+    <published>2021-04-06T09:06:42-04:00</published>
+    <updated>2021-04-06T09:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/estiaraextremenoir-man"/>
+    <title>Estiara Extreme Noir For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Estiara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EstiaraExtremeNoirEDT-man.jpg?v=1617807768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Estiara<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Estiara produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Estiara perfumes like Extreme Noir </span><span>For Man,</span><span> with prices starting as low as $25. This fragrance retails for $57 meaning you save even more and get the best possible deal. Get the best price on the newest Estiara Extreme Noir perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6568142897214</id>
+      <title>Estiara Extreme Noir M 100ml Boxed</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ESTIAEXTRNOIRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6568142241854</id>
+    <published>2021-04-06T09:00:59-04:00</published>
+    <updated>2021-04-06T09:00:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/estiarafleurnoir-woman"/>
+    <title>Estiara Fleur Noir For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Estiara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EstiaraFleurNoirEDP-woman.jpg?v=1617808025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Estiara<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            21.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Estiara produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Estiara perfumes like Fleur Noir </span><span>For Woman,</span><span> with prices starting as low as $25. This fragrance retails for $57 meaning you save even more and get the best possible deal. Get the best price on the newest Estiara Fleur Noir perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6568142241854</id>
+      <title>Estiara Fleur Noir EDP W 100ml Boxed</title>
+      <s:price currency="CAD">21.45</s:price>
+      <s:sku>ESTIARFLUENOIRW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6568141422654</id>
+    <published>2021-04-06T08:52:26-04:00</published>
+    <updated>2021-04-06T08:52:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/estiarachevalgreen-man"/>
+    <title>Estiara Cheval Green For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Estiara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EstiaraChevalGreenEDT-man.jpg?v=1617807724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Estiara<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            21.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Estiara produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Estiara perfumes like Cheval Green </span><span>For Man,</span><span> with prices starting as low as $25. This fragrance retails for $57 meaning you save even more and get the best possible deal. Get the best price on the newest Estiara Cheval Green perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6568141422654</id>
+      <title>Estiara Cheval Green M 100ml Boxed</title>
+      <s:price currency="CAD">21.45</s:price>
+      <s:sku>ESTIARCHEVGREM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6557557915710</id>
+    <published>2021-03-26T15:51:06-04:00</published>
+    <updated>2021-03-26T15:51:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/demeteryellowirisedc-woman"/>
+    <title>Demeter Yellow Iris For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/DemeterYellowIris-woman.jpg?v=1617807690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            13.95 - 25.95
+            <a href="https://fragrancebuy.ca/products/demeteryellowirisedc-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Demeter produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Demeter perfumes like Yellow Iris </span><span>For Woman,</span><span> with prices starting as low as $35. This fragrance retails for $50 meaning you save even more and get the best possible deal. Get the best price on the newest Demeter perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6557557915710</id>
+      <title>Demeter Yellow Iris EDC 120ml Boxed</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>DEMYELIRM-120B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6557557915710</id>
+      <title>Tester - Demeter Yellow Iris EDC 30ml Tester</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>DEMYEIRM-30T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6542302642238</id>
+    <published>2021-03-05T16:18:16-05:00</published>
+    <updated>2021-03-05T16:18:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jilsandereve-woman"/>
+    <title>Jil Sander Eve For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Jill Sander</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/JilSanderEveEDT75ml-woman.jpg?v=1615409887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jill Sander<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Jil Sander produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Jil Sander</span><span> perfumes like Eve</span><span> For women, with prices starting as low as $30.00</span><span data-mce-fragment="1"> </span><span>. This fragrance retails for $72.00</span><span> meaning you save even more and get the best possible deal. Get the best price on the newest Jil Sander</span><span> perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6542302642238</id>
+      <title>Tester - Jill Sander Eve EDT 75ml Unboxed (with cap)</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>JILSANEVEW-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6542302085182</id>
+    <published>2021-03-05T16:15:47-05:00</published>
+    <updated>2021-03-05T16:15:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/kokeshitonka-woman"/>
+    <title>Kokeshi Tonka For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Kokeshi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/kokeshiTonka-man.jpg?v=1615410609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kokeshi<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Kokeshi produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Kokeshi</span><span> perfumes like Kokeshi Tonka </span><span>For women, with prices starting as low as $30.</span><span> This fragrance retails for $72.00</span><span> meaning you save even more and get the best possible deal. Get the best price on the newest Kokeshi</span><span> perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6542302085182</id>
+      <title>Tester - Kokeshi Tonka W 50ml Tester (no cap)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>KOKTONW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6542301331518</id>
+    <published>2021-03-05T16:12:25-05:00</published>
+    <updated>2021-03-05T16:12:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/kokeshilotus-woman"/>
+    <title>Kokeshi Lotus For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Kokeshi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/kokeshiLotus-woman.jpg?v=1615410571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kokeshi<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Kokeshi produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Kokeshi</span><span> perfumes like Lotus </span><span>For women, with prices starting as low as $30.</span><span> This fragrance retails for $72.00</span><span> meaning you save even more and get the best possible deal. Get the best price on the newest Kokeshi</span><span> perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6542301331518</id>
+      <title>Tester - Kokeshi Lotus W 50ml Tester (no cap)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>KOKLOTW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

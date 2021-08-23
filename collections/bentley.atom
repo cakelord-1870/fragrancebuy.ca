@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/bentley.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2020-10-01T14:24:09-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4739187671102</id>
+    <published>2020-10-01T14:24:09-04:00</published>
+    <updated>2020-10-01T14:24:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentelysilverlake-man"/>
+    <title>Bentely Silverlake (2020) For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bentleysilverlake-man.jpg?v=1621529019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            49.95 - 59.95
+            <a href="https://fragrancebuy.ca/products/bentelysilverlake-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Bentely Silverlake Mens Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4739187671102</id>
+      <title>(Limit 1) Bentley Silverlake M 100ml Boxed</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>BENTSILLM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4739187671102</id>
+      <title>Tester -  Bentley Silverlake M 100ml Tester</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>BENTSILLM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4434452021310</id>
+    <published>2020-02-01T18:38:42-05:00</published>
+    <updated>2020-02-01T18:38:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleybeyondmajesticcashmere-man"/>
+    <title>Bentley Beyond The Collection Majestic Cashmere Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bentlybeyondmajesticcashmere-man.jpg?v=1599843435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            97.00 - 99.00
+            <a href="https://fragrancebuy.ca/products/bentleybeyondmajesticcashmere-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentley Beyond The Collection Majestic Cashmere Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 99.00. This fragrance retails for 288.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4434452021310</id>
+      <title>Bentley Beyond The Collection Majestic Cashmere EDP M 100ml Boxed</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BENTBTCMACAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4434452021310</id>
+      <title>Tester - Bentley Beyond The Collection Majestic Cashmere EDP M 100ml Tester</title>
+      <s:price currency="CAD">97.00</s:price>
+      <s:sku>BENBEYTMCM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4434451726398</id>
+    <published>2020-02-01T18:37:16-05:00</published>
+    <updated>2020-02-01T18:37:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleybeyondwildvetiver-man"/>
+    <title>Bentley Beyond The Collection Wild Vetiver Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bentlybeyondwildvetiver-man.jpg?v=1599843433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            97.00 - 99.00
+            <a href="https://fragrancebuy.ca/products/bentleybeyondwildvetiver-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentley Beyond The Collection Wild Vetiver Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 99.00. This fragrance retails for 288.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4434451726398</id>
+      <title>Bentley Beyond The Collection Wild Vetiver EDP M 100ml Boxed</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BENBEYTWVETM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4434451726398</id>
+      <title>Tester - Bentley Beyond The Collection Wild Vetiver EDP M 100ml Tester</title>
+      <s:price currency="CAD">97.00</s:price>
+      <s:sku>BENBEYTWVETM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4434451267646</id>
+    <published>2020-02-01T18:34:48-05:00</published>
+    <updated>2020-02-01T18:34:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleyexoticmusk-man"/>
+    <title>Bentley Beyond The Collection Exotic Musk Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bentleyexoticmuskboxed-man.jpg?v=1588085656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            69.95 - 99.88
+            <a href="https://fragrancebuy.ca/products/bentleyexoticmusk-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentley Beyond The Collection Exotic Musk Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 69.95. This fragrance retails for 288.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4434451267646</id>
+      <title>Tester - Bentley Beyond The Collection Exotic Musk EDP M 100ml Tester (with cap)</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>BENTBTCEMM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4434451267646</id>
+      <title>Bentley Beyond The Collection Exotic Musk EDP M 100ml Boxed</title>
+      <s:price currency="CAD">99.88</s:price>
+      <s:sku>BENTBTCEMM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2292111769662</id>
+    <published>2019-08-01T10:29:43-04:00</published>
+    <updated>2019-08-01T10:29:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleyinfiniterushwhiteedition-man"/>
+    <title>Bentley Infinite Rush White Edition For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bentleyinfiniterushwhiteedition-man.jpg?v=1588086126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            51.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentley Infinite Rush White Edition For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 51.00. This fragrance retails for 152.04 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292111769662</id>
+      <title>Bentley Infinite Rush White Edition M EDT 100ml Boxed</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>BENTLINFINRWHITM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2100355432510</id>
+    <published>2019-04-05T17:13:31-04:00</published>
+    <updated>2019-04-05T17:13:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentelymomentumunlimited-man"/>
+    <title>Bentely Momentum Unlimited For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bentleymomentumunlimited-man.jpg?v=1588086274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            35.00 - 40.39
+            <a href="https://fragrancebuy.ca/products/bentelymomentumunlimited-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentely Momentum Unlimited For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 40.46. This fragrance retails for 84.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2100355432510</id>
+      <title>Bentley Momentum Unlimited M 100ml Boxed</title>
+      <s:price currency="CAD">40.39</s:price>
+      <s:sku>BENMOMUM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2100355432510</id>
+      <title>Tester - Bentley Momentum Unlimited M EDP 100ml Tester</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>BENMOMUNLM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1475532193854</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleyblack-man"/>
+    <title>Bentley Black Edition For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bentleyblackedition-man.jpg?v=1588085633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            38.95 - 43.00
+            <a href="https://fragrancebuy.ca/products/bentleyblack-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentley Black Edition For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 37.95. This fragrance retails for 150.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1475532193854</id>
+      <title>Tester - Bentley Black M 100ml Tester</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>BENTLBLAM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1475532193854</id>
+      <title>Bentley Black Edition M 100ml Boxed</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>BENTLBLAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1359323496510</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleymomentumintense-man"/>
+    <title>Bentley Momentum Intense For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bentleymomentintense-man.jpg?v=1588086246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Bentley Momentum Intense Mens Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1359323496510</id>
+      <title>Bentley Momentum Intense M EDP 100ml Boxed</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>BENTLMOMINTM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/10256423503</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleyinfiniterush-man"/>
+    <title>Bentley Infinite Rush For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bentleyinfiniterushM-man.jpg?v=1588085779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            38.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentley Infinite Rush For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 39.95. This fragrance retails for 82.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/10256423503</id>
+      <title>Bentley Infinite Rush M EDT 100ml Boxed</title>
+      <s:price currency="CAD">38.79</s:price>
+      <s:sku>BENINFRUSHM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6191603396</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleyintense-man"/>
+    <title>Bentley Intense For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/BentleyIntnseM-man.jpg?v=1588086156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            17.95 - 42.95
+            <a href="https://fragrancebuy.ca/products/bentleyintense-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentley Intense For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 17.95. This fragrance retails for 38.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6191603396</id>
+      <title>Bentley Intense M EDP 100ml Boxed</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku>BENIEPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6191603396</id>
+      <title>Tester - Bentley Intense M EDP 100ml Tester (with cap)</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>BENTINTEM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6191603396</id>
+      <title>Decant - Bentley Intense M EDP 15ml Spray Unboxed (with pouch)</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>BENIEPM-15T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6191584132</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleyabsolute-man"/>
+    <title>Bentley Absolute For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bentleyabsolute-man.jpg?v=1588033557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            37.95 - 46.95
+            <a href="https://fragrancebuy.ca/products/bentleyabsolute-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Bentley Absolute For Man | Fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6191584132</id>
+      <title>Bentley Absolute M EDP 100ml Boxed</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>BENAEPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6191584132</id>
+      <title>Tester - Bentley Absolute M EDP 100ml</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>BENAEPM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5041420420</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleyclassic-man"/>
+    <title>Bentley Classic For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/BentleyM-man.jpg?v=1588086212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Bentley Classic Cologne For Man | Fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5041420420</id>
+      <title>Bentley M 100ml Boxed</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>BENTCLAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5041368132</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleyinfite-man"/>
+    <title>Bentley Infinite For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/BentleyInfiniteM-man.jpg?v=1588085737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentley Infinite For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 49.97. This fragrance retails for 82.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5041368132</id>
+      <title>Bentley Infinite M 100ml Boxed</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>BENTLEYM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5041327236</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleyinfiniteintense-man"/>
+    <title>Bentley Infinite Intense For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/BentleyInfiniteIntenseM-man.jpg?v=1588085696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            31.95 - 45.00
+            <a href="https://fragrancebuy.ca/products/bentleyinfiniteintense-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentley Infinite Intense For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 46.95. This fragrance retails for 82.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5041327236</id>
+      <title>Bentley Infinite Intense M 100ml Boxed</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>BENTLINM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5041327236</id>
+      <title>Tester - Bentley Infinite Intense M EDP 100ml Tester (with cap)</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>BENININTM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5035997572</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bentleyazure-man"/>
+    <title>Bentley Azure For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bentley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/BentleyAzureM-man.jpg?v=1588033593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bentley<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            19.95 - 37.45
+            <a href="https://fragrancebuy.ca/products/bentleyazure-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bentley produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bentley perfumes like </span><span style="color: rgb(99, 115, 129);">Bentley Azure For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 37.45. This fragrance retails for 82.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bentley perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>decant</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5035997572</id>
+      <title>Bentley Azure M EDT 100ml Boxed</title>
+      <s:price currency="CAD">37.45</s:price>
+      <s:sku>BENTLAZM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5035997572</id>
+      <title>Tester - Bentley Azzure M EDT 100ml Tester (with cap)</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>BENAZZM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5035997572</id>
+      <title>Decant - Bentley Azzure M EDP 15ml Unboxed</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>BENAZZM-15B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

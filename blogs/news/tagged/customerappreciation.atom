@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/blogs/news/tagged/customerappreciation.atom"/>
+  <title>Fragrancebuy.ca - What&apos;s New at Fragrancebuy</title>
+  <updated>2020-11-21T20:26:41-05:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/blogs/news/shippingwithoutborders</id>
+    <published>2017-04-26T17:21:00-04:00</published>
+    <updated>2018-08-07T19:07:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/blogs/news/shippingwithoutborders"/>
+    <title>Shipping without borders</title>
+    <author>
+      <name>Aman Kalra</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div><img src="//cdn.shopify.com/s/files/1/0274/8363/files/captiontheimage_10be63b7-8dd7-4f0c-a87e-6278e0fabe76_large.jpg?v=1493240993" alt="Now Serving the American Flag with a Canadian tag" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div style="text-align: center;"></div>
+<br>
+<div style="text-align: center;">Hello USA. You asked, we did it......</div>
+<br>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">We're super excited to announce our official launch into the USA!</div>
+<br>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Priority shipping is in place and most orders will be delivered anywhere in the USA within 3-5 business days.</div>
+<br>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Plus with GroupBuy5, add any 5 items to your cart and shipping is on us!</div>
+<br>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Yup that's right.</div>
+<br>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">FREE SHIPPING on any 5 items added to your cart :)</div>
+<br>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">The Fragrance Revolution has begun. </div>
+<br>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Happy Savings!</div>
+<br>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Team Fragrancebuy</div>]]>
+    </content>
+  </entry>
+</feed>

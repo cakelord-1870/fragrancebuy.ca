@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/danielle-steel.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2013-10-06T13:33:00-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162844593</id>
+    <published>2013-10-06T13:33:00-04:00</published>
+    <updated>2013-10-06T13:33:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/danielle-woman"/>
+    <title>Danielle Steel For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Danielle Steel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/daniellesteel-woman_741938d8-e715-4ebc-9ef5-34aebec45385.jpg?v=1426362611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Steel<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Danielle Steel W 100Ml Spray Boxed Woman Perfume| fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>celebrity fragrance</s:tag>
+    <s:tag>danielle steel</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>setishere</s:tag>
+    <s:tag>setpresent</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:tag>xmasset</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844593</id>
+      <title>Tester - Danielle Steel EDP W 100ml Tester</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>DANSTEELEDPW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

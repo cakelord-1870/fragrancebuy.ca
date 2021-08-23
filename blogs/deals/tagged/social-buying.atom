@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/blogs/deals.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/blogs/deals"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/blogs/deals/tagged/social-buying.atom"/>
+  <title>Fragrancebuy.ca - Deals &amp; Promotions</title>
+  <updated>2019-09-02T19:04:00-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/blogs/deals/9640211-free-shipping-get-your-friends-buy-together</id>
+    <published>2013-10-14T17:49:00-04:00</published>
+    <updated>2017-04-26T17:07:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/blogs/deals/9640211-free-shipping-get-your-friends-buy-together"/>
+    <title>FREE Shipping - Get your friends, Buy Together</title>
+    <author>
+      <name>Harmeet Kalra</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><img src="//cdn.shopify.com/s/files/1/0274/8363/files/group-buying_large.png?9825" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Many individuals, including your family, relatives and friends use perfume or cologne on a day-to-day basis. When prices from FragranceBuy are this great, why not spread the word and buy as a team?</p>
+<p> </p>
+<p>For a limited time only, buy 5 or more separate product SKUs and get FREE Shipping <strong>anywhere in the USA or Canada</strong>!  So convince your mom, dad, brother, sister, aunt, uncle, cousin, boyfriend, girlfriend, son, daughter or friend to buy with you and get the benefit of Great Brands delivered free to your door!</p>
+<p> </p>
+<p>Here's how it works:</p>
+<p>1) Buy 5 bottles/gift sets or perfume/cologne/after shave</p>
+<p>2) Your cart will automatically display FREE shipping at checkout</p>
+<p> </p>
+<p>You win, your friends and family win!</p>
+<p> </p>
+<p>Just another way FragranceBuy has made the online warehouse sale concept remarkable, fun and ship-free! </p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>

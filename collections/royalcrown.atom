@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/royalcrown.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-06-21T13:20:04-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6602581573694</id>
+    <published>2021-06-21T13:20:04-04:00</published>
+    <updated>2021-06-21T13:20:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrowncaterina-woman"/>
+    <title>Royal Crown Caterina For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownCaterina-woman.jpg?v=1624555722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Royal Crown Caterina </span><span>For Woman,</span><span> with prices starting as low as $399. This fragrance retails for $625 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown Caterina perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6602581573694</id>
+      <title>Royal Crown Caterina W 100ML Boxed</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku>RCCATW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590794956862</id>
+    <published>2021-06-02T20:49:48-04:00</published>
+    <updated>2021-06-02T20:49:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownkabel-man"/>
+    <title>Royal Crown K&apos;abel For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownK_abel-man.jpg?v=1624555823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            286.85 - 349.00
+            <a href="https://fragrancebuy.ca/products/royalcrownkabel-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like K'abel </span><span>For Man/Woman,</span><span> with prices starting as low as $899. This fragrance retails for $919 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>spo</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590794956862</id>
+      <title>Royal Crown K&apos;abel M 100ML Boxed</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku>RYLCRWKBLM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590794956862</id>
+      <title>Tester - Royal Crown K&apos;abel M 100ml Tester</title>
+      <s:price currency="CAD">286.85</s:price>
+      <s:sku>RYLCRWKABELM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590798463038</id>
+    <published>2021-06-02T20:49:20-04:00</published>
+    <updated>2021-06-02T20:49:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownimperator-man"/>
+    <title>Royal Crown Imperator For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownImperator-man.jpg?v=1624555757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            286.85 - 349.00
+            <a href="https://fragrancebuy.ca/products/royalcrownimperator-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Imperator </span><span>For Man/Woman,</span><span> with prices starting as low as $899. This fragrance retails for $919 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590798463038</id>
+      <title>Royal Crown Imperator M 100ML Boxed</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku>RYLCRWIMPRTRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590798463038</id>
+      <title>Tester - Royal Crown Imperator M 100ml Tester</title>
+      <s:price currency="CAD">286.85</s:price>
+      <s:sku>RYLCRWIMPRTRM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590790893630</id>
+    <published>2021-06-02T20:48:39-04:00</published>
+    <updated>2021-06-02T20:48:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrowntzar-man"/>
+    <title>Royal Crown Tzar For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownTzar-man.jpg?v=1624556120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            229.00 - 299.00
+            <a href="https://fragrancebuy.ca/products/royalcrowntzar-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Tzar </span><span>For Man/Woman,</span><span> with prices starting as low as $899. This fragrance retails for $919 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590790893630</id>
+      <title>Tester (Slight leak at collar) - Royal Crown Tzar M 100ml Tester</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>RYLCRWTZARM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590790893630</id>
+      <title>Royal Crown Tzar M 100ML Boxed</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>RYLCRWTZARM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590805049406</id>
+    <published>2021-06-02T20:48:22-04:00</published>
+    <updated>2021-06-02T20:48:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownsultan-man"/>
+    <title>Royal Crown Sultan For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownSultan-man.jpg?v=1624556064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            308.00 - 399.00
+            <a href="https://fragrancebuy.ca/products/royalcrownsultan-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Sultan </span><span>For Man/Woman,</span><span> with prices starting as low as $977. This fragrance retails for $992 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590805049406</id>
+      <title>Tester - Royal Crown Sultan M 100ml Tester</title>
+      <s:price currency="CAD">308.00</s:price>
+      <s:sku>RYLCRWSULTNM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590805049406</id>
+      <title>Royal Crown Sultan M 100ML Boxed</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku>RYLCRWSULTNM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590801117246</id>
+    <published>2021-06-02T20:47:57-04:00</published>
+    <updated>2021-06-02T20:47:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownkhan-man"/>
+    <title>Royal Crown Khan For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownKhan-man.jpg?v=1624555855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            286.85 - 349.00
+            <a href="https://fragrancebuy.ca/products/royalcrownkhan-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Khan </span><span>For Man/Woman,</span><span> with prices starting as low as $899. This fragrance retails for $919 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590801117246</id>
+      <title>Royal Crown Khan M 100ml Boxed</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku>RYLCRWKHANM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590801117246</id>
+      <title>Tester - Royal Crown Khan M 100ml Tester</title>
+      <s:price currency="CAD">286.85</s:price>
+      <s:sku>RYLCRWKHANM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590811963454</id>
+    <published>2021-05-28T11:27:30-04:00</published>
+    <updated>2021-05-28T11:27:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownisabella-woman"/>
+    <title>Royal Crown Isabella For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownIsabella-woman.jpg?v=1624555790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            305.00 - 349.00
+            <a href="https://fragrancebuy.ca/products/royalcrownisabella-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Isabella </span><span>For Woman,</span><span> with prices starting as low as $965. This fragrance retails for $980 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590811963454</id>
+      <title>Tester - Royal Crown Isabella W 100ml Tester</title>
+      <s:price currency="CAD">305.00</s:price>
+      <s:sku>RYLCRWISBELAW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590811963454</id>
+      <title>Royal Crown Isabella W 100ML Boxed</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku>RYLCRWISBELAW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590786207806</id>
+    <published>2021-05-28T10:05:29-04:00</published>
+    <updated>2021-05-28T10:05:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownrosemasquat-woman"/>
+    <title>Royal Crown Rose Masquat For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownRoseMasqat-woman.jpg?v=1624555977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            244.00 - 299.00
+            <a href="https://fragrancebuy.ca/products/royalcrownrosemasquat-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Rose Masquat </span><span>For Woman,</span><span> with prices starting as low as $765. This fragrance retails for $780 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590786207806</id>
+      <title>Royal Crown Rose Masquat W 100ML Boxed</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>RYLCRWRSEMSQUTW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590786207806</id>
+      <title>Tester - Royal Crown Rose Masquat W 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWRSEMAQTW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590783455294</id>
+    <published>2021-05-28T09:52:42-04:00</published>
+    <updated>2021-05-28T09:52:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownlespetitescoquin-woman"/>
+    <title>Royal Crown Les Petites Coquin For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownLesPetitesCoquin-woman.jpg?v=1624555896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            244.00 - 289.00
+            <a href="https://fragrancebuy.ca/products/royalcrownlespetitescoquin-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Les Petites Coquin </span><span>For Woman,</span><span> with prices starting as low as $765. This fragrance retails for $780 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590783455294</id>
+      <title>Royal Crown Les Petites Coquin W 100ML Boxed</title>
+      <s:price currency="CAD">289.00</s:price>
+      <s:sku>RYLCRWLSPETCOQW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590783455294</id>
+      <title>Tester - Royal Crown Les Petites Coquin W 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWLEPETCOQW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590169677886</id>
+    <published>2021-05-26T12:55:13-04:00</published>
+    <updated>2021-05-26T12:55:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownalkimya-man"/>
+    <title>Royal Crown Al Kimya For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownAlKimiya-man.jpg?v=1624555684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            229.00 - 299.00
+            <a href="https://fragrancebuy.ca/products/royalcrownalkimya-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Alkimya </span><span>For Man/Woman,</span><span> with prices starting as low as $763. This fragrance retails for $778 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590169677886</id>
+      <title>Royal Crown Alkimya M 50ML Boxed</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>RYLCRWALKMYAM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590169677886</id>
+      <title>Royal Crown Alkimya M 100ML Boxed</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>RYLCRWALKMYAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590169677886</id>
+      <title>Tester - Royal Crown Alkimya M 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWALKMYM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590166237246</id>
+    <published>2021-05-26T12:32:34-04:00</published>
+    <updated>2021-05-26T12:32:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownpoudredefleur-woman"/>
+    <title>Royal Crown Poudre De Fleur For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/RoyalCrownPodreDeFleur-woman.jpg?v=1624555931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            275.00 - 286.00
+            <a href="https://fragrancebuy.ca/products/royalcrownpoudredefleur-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Poudre De Fleur </span><span>For Woman,</span><span> with prices starting as low as $899. This fragrance retails for $917 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590166237246</id>
+      <title>Royal Crown Poudre De Fleur W 100ML Boxed</title>
+      <s:price currency="CAD">275.00</s:price>
+      <s:sku>RYLCRWPDRDEFLEUW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590166237246</id>
+      <title>Tester - Royal Crown Poudre De Fleur W 100ml Tester</title>
+      <s:price currency="CAD">286.00</s:price>
+      <s:sku>RYLCRWPODDFEURW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6589975199806</id>
+    <published>2021-05-26T10:24:36-04:00</published>
+    <updated>2021-05-26T10:24:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownmuskubar-man"/>
+    <title>Royal Crown Musk Ubar For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_a6a30e25-32dc-4d11-bf86-769046d57236.jpg?v=1622039077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            244.00 - 289.00
+            <a href="https://fragrancebuy.ca/products/royalcrownmuskubar-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like Musk Ubar </span><span>For Man,</span><span> with prices starting as low as $764. This fragrance retails for $779 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6589975199806</id>
+      <title>Royal Crown Musk Ubar M 100ML Boxed</title>
+      <s:price currency="CAD">289.00</s:price>
+      <s:sku>ROYLCRWNMSKUBRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6589975199806</id>
+      <title>Tester - Royal Crown Musk Ubar M 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWMUSUBRM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084139368510</id>
+    <published>2019-04-24T22:17:00-04:00</published>
+    <updated>2019-04-24T22:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownytzma-man"/>
+    <title>Royal Crown YTZMA For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcroanytzmabox-man.jpg?v=1588790786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            229.00 - 299.00
+            <a href="https://fragrancebuy.ca/products/royalcrownytzma-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Royal Crown YTZMA Mens Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084139368510</id>
+      <title>Royal Crown YTZMA M 50ML Boxed</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>RYLCRWYTZMAM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084139368510</id>
+      <title>Royal Crown YTZMA M 100ml Boxed</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>ROYCRYTM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084139368510</id>
+      <title>Tester - Royal Crown YTZMA M 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWYTZMAM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084147986494</id>
+    <published>2019-04-24T22:16:00-04:00</published>
+    <updated>2019-04-24T22:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrowntenebra-woman"/>
+    <title>Royal Crown Tenebra For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrowntenebra-man.jpg?v=1588865385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            244.00 - 279.00
+            <a href="https://fragrancebuy.ca/products/royalcrowntenebra-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like </span><span style="color: rgb(99, 115, 129);">Royal Crown Tenebra For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 279.00. This fragrance retails for 560.00 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084147986494</id>
+      <title>95% Full - Royal Crown Tenebra W 50ml Boxed (slightly damaged box)</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku>ROYCRTEW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084147986494</id>
+      <title>Royal Crown Tenebra W 50ml Boxed</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku>ROYCRTEW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084147986494</id>
+      <title>Royal Crown Tenebra W 100ML Boxed</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku>RYLCRWTENBRW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084147986494</id>
+      <title>Tester - Royal Crown Tenebra W 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWTENBRW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084140843070</id>
+    <published>2019-04-24T22:16:00-04:00</published>
+    <updated>2019-04-24T22:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownupperclass-man"/>
+    <title>Royal Crown Upper Class For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrownupperclass-man.jpg?v=1588859787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            239.00 - 319.00
+            <a href="https://fragrancebuy.ca/products/royalcrownupperclass-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Royal Crown Upper Class Mens Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084140843070</id>
+      <title>Royal Crown Upper Class M 50ml Boxed</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku>ROYCRUPCLM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084140843070</id>
+      <title>Royal Crown Upper Class M 100ml Boxed</title>
+      <s:price currency="CAD">319.00</s:price>
+      <s:sku>ROYCRUCM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084140843070</id>
+      <title>Tester - Royal Crown Upper Class M 100ml Tester</title>
+      <s:price currency="CAD">286.00</s:price>
+      <s:sku>RYLCRWUPRCLSM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084135927870</id>
+    <published>2019-04-24T22:15:00-04:00</published>
+    <updated>2019-04-24T22:15:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrowntabacroyal-man"/>
+    <title>Royal Crown Tabac Royal For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/tabacroyalroyalcrownbox-man.jpg?v=1588865546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            244.00 - 299.00
+            <a href="https://fragrancebuy.ca/products/royalcrowntabacroyal-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Royal Crown Tabac Royal Mens Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084135927870</id>
+      <title>Royal Crown Tabac Royal M 100ML Boxed</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>ROYCRTRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084135927870</id>
+      <title>Tester - Royal Crown Tabac Royal M 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWTCROYM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084154114110</id>
+    <published>2019-04-24T22:14:06-04:00</published>
+    <updated>2019-04-24T22:14:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownseaisland-man"/>
+    <title>Royal Crown Sea Island For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrownseaisland-man.jpg?v=1588867895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            229.00 - 289.00
+            <a href="https://fragrancebuy.ca/products/royalcrownseaisland-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like </span><span style="color: rgb(99, 115, 129);">Royal Crown Sea Island For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 279.00. This fragrance retails for 495.00 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084154114110</id>
+      <title>Royal Crown Sea Island M 50ml Boxed</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>ROYCRSIM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084154114110</id>
+      <title>Royal Crown Sea Island M 100ML Boxed</title>
+      <s:price currency="CAD">289.00</s:price>
+      <s:sku>RYLCRWSEAISLNDM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084154114110</id>
+      <title>Tester - Royal Crown Sea Island M 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWSEISLNDM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084164665406</id>
+    <published>2019-04-24T22:14:00-04:00</published>
+    <updated>2019-04-24T22:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownoudsantal-man"/>
+    <title>Royal Crown Oud Santal For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrownoudsantalbox-man.jpg?v=1588868234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            305.00 - 349.00
+            <a href="https://fragrancebuy.ca/products/royalcrownoudsantal-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like </span><span style="color: rgb(99, 115, 129);">Royal Crown Oud Santal For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 349.00. This fragrance retails for 625.00 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084164665406</id>
+      <title>Royal Crown Oud Santal M 50ml Boxed</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku>ROYCROUDSANM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084164665406</id>
+      <title>Royal Crown Oud Santal M 100ML Boxed</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku>RYLCRWODSANTLM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084164665406</id>
+      <title>Tester - Royal Crown Oud Santal M 100ml Tester</title>
+      <s:price currency="CAD">305.00</s:price>
+      <s:sku>RYLCRWODSNTLM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084156997694</id>
+    <published>2019-04-24T22:14:00-04:00</published>
+    <updated>2019-04-24T22:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownreflexion-woman"/>
+    <title>Royal Crown Reflextion For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrownreflexion-man.jpg?v=1588690626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            279.00 - 299.00
+            <a href="https://fragrancebuy.ca/products/royalcrownreflexion-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like </span><span style="color: rgb(99, 115, 129);">Royal Crown Reflextion For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 279.00. This fragrance retails for 560.00 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084156997694</id>
+      <title>Royal Crown Reflextion W 50ml Boxed</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku>ROYCRRW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084156997694</id>
+      <title>Royal Crown Reflextion W 100ml Boxed</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>RYLCRWREFLEXTNW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084156997694</id>
+      <title>Tester - Royal Crown Reflextion W 100ml Tester</title>
+      <s:price currency="CAD">286.00</s:price>
+      <s:sku>RYLCRWREFLXTIONW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084134027326</id>
+    <published>2019-04-24T22:14:00-04:00</published>
+    <updated>2019-04-24T22:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownrain-man"/>
+    <title>Royal Crown Rain For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrownrain-man.jpg?v=1588688107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            244.00 - 299.00
+            <a href="https://fragrancebuy.ca/products/royalcrownrain-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Royal Crown Rain Mens Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084134027326</id>
+      <title>Royal Crown Rain M 100ml Boxed</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>ROYCRRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084134027326</id>
+      <title>Tester - Royal Crown Rain M 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWRAINM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084162928702</id>
+    <published>2019-04-24T22:13:01-04:00</published>
+    <updated>2019-04-24T22:13:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownoudalmelka-man"/>
+    <title>Royal Crown Oud Al Melka For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrownoudalmelka-man.jpg?v=1588685206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            305.00 - 399.00
+            <a href="https://fragrancebuy.ca/products/royalcrownoudalmelka-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like </span><span style="color: rgb(99, 115, 129);">Royal Crown Oud Al Melka For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 499.00. This fragrance retails for 625.00 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084162928702</id>
+      <title>Royal Crown Oud Al Melka W 50ml Boxed</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku>ROYCROAMW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084162928702</id>
+      <title>Royal Crown Oud Al Melka W 100ml Boxed</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku>RYLCRWOUDALMLKAW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084162928702</id>
+      <title>Tester - Royal Crown Oud Al Melka W 100ml Tester</title>
+      <s:price currency="CAD">305.00</s:price>
+      <s:sku>RYLCRWODALMELKW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084142317630</id>
+    <published>2019-04-24T22:13:01-04:00</published>
+    <updated>2019-04-24T22:13:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownoudjasmine-woman"/>
+    <title>Royal Crown Oud Jasmine For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrownoudjasminbox-man.jpg?v=1588685261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            379.00 - 439.00
+            <a href="https://fragrancebuy.ca/products/royalcrownoudjasmine-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Royal Crown Oud Jasmine Mens Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084142317630</id>
+      <title>Royal Crown Oud Jasmine W 50ml Boxed</title>
+      <s:price currency="CAD">379.00</s:price>
+      <s:sku>ROYCROJAW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084142317630</id>
+      <title>Royal Crown Oud Jasmine M 100ML Boxed</title>
+      <s:price currency="CAD">439.00</s:price>
+      <s:sku>ROYCROJM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084142317630</id>
+      <title>Tester - Royal Crown Oud Jasmine M 100ml Tester</title>
+      <s:price currency="CAD">391.00</s:price>
+      <s:sku>RYLCRWODJSMNM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084145397822</id>
+    <published>2019-04-24T22:13:00-04:00</published>
+    <updated>2019-04-24T22:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownnoor-man"/>
+    <title>Royal Crown Noor For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrownnoor-man.jpg?v=1588684308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            244.00 - 299.00
+            <a href="https://fragrancebuy.ca/products/royalcrownnoor-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like </span><span style="color: rgb(99, 115, 129);">Royal Crown Noor For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 279.00. This fragrance retails for 495.00 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084145397822</id>
+      <title>Royal Crown Noor W 50ml Boxed</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku>ROYCRNOW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084145397822</id>
+      <title>Royal Crown Noor W 100ML Boxed</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>RYLCRWNOORW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084145397822</id>
+      <title>Tester - Royal Crown Noor W 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWNOORW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084155064382</id>
+    <published>2019-04-24T22:12:00-04:00</published>
+    <updated>2019-04-24T22:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownhabanos-man"/>
+    <title>Royal Crown Habanos For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrownhabanos-man.jpg?v=1588292876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            286.00 - 349.00
+            <a href="https://fragrancebuy.ca/products/royalcrownhabanos-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like </span><span style="color: rgb(99, 115, 129);">Royal Crown Habanos For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 349.00. This fragrance retails for 560.00 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084155064382</id>
+      <title>Royal Crown Habanos M 50ml Boxed</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku>ROYCRHABM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084155064382</id>
+      <title>Royal Crown Habanos M 100ml Boxed</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku>RYLCRWHABNOSM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084155064382</id>
+      <title>Tester - Royal Crown Habanos M 100ml Tester</title>
+      <s:price currency="CAD">286.00</s:price>
+      <s:sku>RYLCRWHABNOSM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2084152606782</id>
+    <published>2019-04-24T22:12:00-04:00</published>
+    <updated>2019-04-24T22:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/royalcrownmyoud-man"/>
+    <title>Royal Crown My Oud For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Royal Crown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/royalcrownmyoud-man.jpg?v=1588630464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Crown<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            244.00 - 289.00
+            <a href="https://fragrancebuy.ca/products/royalcrownmyoud-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Royal Crown produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Royal Crown perfumes like </span><span style="color: rgb(99, 115, 129);">Royal Crown My Oud For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 279.00. This fragrance retails for 495.00 meaning you save even more and get the best possible deal. Get the best price on the newest Royal Crown perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084152606782</id>
+      <title>Royal Crown My Oud M 50ml Boxed</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku>ROYCRMOM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084152606782</id>
+      <title>Royal Crown My Oud M 100ml Boxed</title>
+      <s:price currency="CAD">289.00</s:price>
+      <s:sku>RYLCRWMYOUDM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2084152606782</id>
+      <title>Tester - Royal Crown My Oud M 100ml Tester</title>
+      <s:price currency="CAD">244.00</s:price>
+      <s:sku>RYLCRWMYOUDM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

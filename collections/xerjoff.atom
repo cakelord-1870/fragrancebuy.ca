@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/xerjoff.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-06-30T16:59:56-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6575311028286</id>
+    <published>2021-06-30T16:59:56-04:00</published>
+    <updated>2021-06-30T16:59:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/italica"/>
+    <title>Xerjoff Italica For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffItalicaNewPack2021-man.jpg?v=1625009552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Italian perfumes like X It </span><span>For Man/Woman,</span><span> with prices starting as low as $360. This fragrance retails for $375 meaning you save even more and get the best possible deal. Get the best price on the newest Italian perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6575311028286</id>
+      <title>Tester - Xerjoff Italica 100ml EDP M 100ml Tester (with cap)</title>
+      <s:price currency="CAD">275.00</s:price>
+      <s:sku>XERITAM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6571921571902</id>
+    <published>2021-04-17T11:40:41-04:00</published>
+    <updated>2021-04-17T11:40:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffhomme-man"/>
+    <title>Xerjoff Homme For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffHomme50ml-man.jpg?v=1620249052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            299.00 - 349.00
+            <a href="https://fragrancebuy.ca/products/xerjoffhomme-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like Xerjoff Homme </span><span>For Man,</span><span> with prices starting as low as $565. This fragrance retails for $581 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff Homme perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6571921571902</id>
+      <title>Xerjoff Homme Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku>XERHOMM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6571921571902</id>
+      <title>Tester - Xerjoff Homme Parfum M 100ml Tester</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>XERHOMM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6571917738046</id>
+    <published>2021-04-17T11:08:34-04:00</published>
+    <updated>2021-04-17T11:08:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffirisss-man"/>
+    <title>Xerjoff Irisss For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffIrisss50ml-man.jpg?v=1620249083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            239.00 - 329.00
+            <a href="https://fragrancebuy.ca/products/xerjoffirisss-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like Xerjoff Irisss </span><span>For Man/Woman,</span><span> with prices starting as low as $329. This fragrance retails for $604 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff Irisss  perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6571917738046</id>
+      <title>Xerjoff Irisss Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku>XERIRM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6571917738046</id>
+      <title>Tester - Xerjoff Irisss Parfum M 100ml Tester</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku>XERIRM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4765985996862</id>
+    <published>2020-12-18T12:17:43-05:00</published>
+    <updated>2020-12-18T12:17:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffamabile-man"/>
+    <title>Xerjoff V Amabile For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffAmabileEDP100ml-man.jpg?v=1608403954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            189.00 - 239.00
+            <a href="https://fragrancebuy.ca/products/xerjoffamabile-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: #fafbfc;">The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like Xerjoff V Amabile </span><span style="color: #637381;">,</span><span style="background-color: #fafbfc;"> with prices starting as low as 229.00. This fragrance retails for 325.00 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>mensfragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4765985996862</id>
+      <title>Xerjoff V Amabile M 50ml EDP Boxed</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku>XRJFAMBLEM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4765985996862</id>
+      <title>Xerjoff V Amabile M 100ml EDP Boxed</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku>XERJVAMABM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4765985996862</id>
+      <title>Tester - Xerjoff V Amabile M 100ml EDP Tester</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>XERAMABM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4765985996862</id>
+      <title>95% Full - Xerjoff V Amabile M 100ml EDP Boxed</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>XERJVAMABM-100G</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4767830868030</id>
+    <published>2020-11-25T11:32:41-05:00</published>
+    <updated>2020-11-25T11:32:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/oilxerjoffkampucheanoirattar-man"/>
+    <title>Oil - Xerjoff Kampuchea Noir Attar For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_b2d0c8bb-bc88-424a-b09f-67a623480368.jpg?v=1606321964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Oil - Xerjoff Kampuchea Noir Attar For Man or Woman, with prices starting as low as $449<span data-mce-fragment="1"> </span>. This fragrance retails for $1295<span data-mce-fragment="1"> </span> meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4767830868030</id>
+      <title>Attar - Xerjoff Kampuchea Noire M 10ml Oil Tester</title>
+      <s:price currency="CAD">599.00</s:price>
+      <s:sku>XERKAMNOIRM-10T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4767826083902</id>
+    <published>2020-11-25T11:30:04-05:00</published>
+    <updated>2020-11-25T11:30:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffwardaaloudattar-man"/>
+    <title>Oil - Xerjoff Warda Al Oud Attar For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_e5ebff0d-ab89-4988-9b07-4daf4ddf445b.jpg?v=1606321805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Oil - Xerjoff Warda Al Oud Attar For Man or Woman, with prices starting as low as $149<span data-mce-fragment="1"> </span>. This fragrance retails for $295<span data-mce-fragment="1"> </span> meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4767826083902</id>
+      <title>Tester - Attar Xerjoff Warda Al Oud M 10ml Oil Tester</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>XERWARALM-10T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4767822250046</id>
+    <published>2020-11-25T11:27:34-05:00</published>
+    <updated>2020-11-25T11:27:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffambergold-man"/>
+    <title>Xerjoff Amber Gold For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_44f3dfc4-1292-4dcd-b1a2-78085e6c67d7.jpg?v=1606321657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff Amber Gold For Man or Woman, with prices starting as low as $249<span data-mce-fragment="1"> </span>. This fragrance retails for $495<span data-mce-fragment="1"> </span> meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4767822250046</id>
+      <title>Tester - Xerjoff Amber Gold Parfum M 50ml Tester</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>XERAMBGM-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4765982130238</id>
+    <published>2020-11-24T20:56:47-05:00</published>
+    <updated>2020-11-24T20:56:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffalexandriaiioil-man"/>
+    <title>Oil - Xerjoff Alexandria II (Perfume Extract) For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffAlexandriaII10ml-man.jpg?v=1608403929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like Oil - Xerjoff Alexandria II (Perfume Extract) For Man or Woman, with prices starting as low as $199<span data-mce-fragment="1"> </span>. This fragrance retails for $346<span data-mce-fragment="1"> </span> meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4765982130238</id>
+      <title>Oil - Xerjoff Alexandria II M 10ml Perfume Extract</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>XERALDPEREXM-10B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4750147256382</id>
+    <published>2020-11-24T20:55:03-05:00</published>
+    <updated>2020-11-24T20:55:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffnaxosalexandriaiigoldendallah-man"/>
+    <title>Trio Set  - Xerjoff Naxos, Alexandria II, Golden Dallah For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffDiscoverySet-man.jpg?v=1625075926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like Xerjoff Naxos, Alexandria II, Golden Dallah 3x15ml  For Man or Woman, with prices starting as low as $295<span data-mce-fragment="1"> </span>. This fragrance retails for $346<span data-mce-fragment="1"> </span> meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4750147256382</id>
+      <title>Trio Set - Xerjoff Naxos, Alexandria II, Golden Dallah 3x15ml Discovery Set</title>
+      <s:price currency="CAD">195.00</s:price>
+      <s:sku>XERALGNAXM-15S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4750144634942</id>
+    <published>2020-11-24T20:53:13-05:00</published>
+    <updated>2020-11-24T20:53:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffapollonia-man"/>
+    <title>Xerjoff Apollonia For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_ac3e1ec1-3d13-4428-8b97-87d4829bdd14.jpg?v=1603313072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            219.00 - 249.00
+            <a href="https://fragrancebuy.ca/products/xerjoffapollonia-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like Xerjoff Apollonia For Man or Woman, with prices starting as low as $295<span data-mce-fragment="1"> </span>. This fragrance retails for $434<span data-mce-fragment="1"> </span> meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4750144634942</id>
+      <title>Xerjoff Apollonia Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>XERAPOLLM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4750144634942</id>
+      <title>Tester - Xerjoff Apollonia Parfum M 50ml Tester</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku>XERAPOLM-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4750144634942</id>
+      <title>Preowned 95% Full - Xerjoff Apollonia Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>XERAPOLLM-50G</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4765994942526</id>
+    <published>2020-11-22T16:41:27-05:00</published>
+    <updated>2020-11-22T16:41:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffjointheclubfatalcharme-man"/>
+    <title>Xerjoff Join the Club Fatal Charme For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffFatalCharmeEDP50ml-man.jpg?v=1608403979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            121.00 - 145.95
+            <a href="https://fragrancebuy.ca/products/xerjoffjointheclubfatalcharme-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: #fafbfc;">The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like Xerjoff Join the Club Fatal Charme for</span><span style="color: #637381;"> Man/Woman,</span><span style="background-color: #fafbfc;"> with prices starting as low as 149.00. This fragrance retails for 269.00 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4765994942526</id>
+      <title>Xerjoff Fatal Charme Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">145.95</s:price>
+      <s:sku>XERFATCHAREDM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4765994942526</id>
+      <title>Tester - Xerjoff Fatal Charme Parfum M 50ml Tester</title>
+      <s:price currency="CAD">121.00</s:price>
+      <s:sku>XERFATCM-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2292781973566</id>
+    <published>2020-11-08T15:45:48-05:00</published>
+    <updated>2020-11-08T15:45:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffoudstarsmamluk-man"/>
+    <title>Xerjoff Oud Stars Mamluk For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/xerjoffmamluktester-man.jpg?v=1588792161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            179.00 - 219.00
+            <a href="https://fragrancebuy.ca/products/xerjoffoudstarsmamluk-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like </span><span style="color: rgb(99, 115, 129);">Xerjoff Oud Stars Mamluk For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 240.96. This fragrance retails for 369.00 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292781973566</id>
+      <title>Xerjoff Oud Stars Mamluk Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku>XEROSTMAMLM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292781973566</id>
+      <title>Tester - Xerjoff Oud Stars Mamluk Parfum M 50ml Tester</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>XEROUDSMM-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4751393849406</id>
+    <published>2020-10-23T15:46:23-04:00</published>
+    <updated>2020-10-23T15:46:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjofflacapitale-man"/>
+    <title>Xerjoff La Capitale For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffLaCapitale50mlEDP-man.jpg?v=1607550852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on <span data-mce-fragment="1">Xerjoff</span> perfumes like La Capitale For Man or Woman, with prices starting as low as $250.00<span data-mce-fragment="1"> </span>. This fragrance retails for $361.00 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4751393849406</id>
+      <title>Xerjoff La Capitale Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">279.00</s:price>
+      <s:sku>XERLACAPM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4750142439486</id>
+    <published>2020-10-21T16:40:35-04:00</published>
+    <updated>2020-10-21T16:40:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffluxor-man"/>
+    <title>Xerjoff Luxor For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffLuxorParfum50ml-man.jpg?v=1608749884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            239.00 - 289.00
+            <a href="https://fragrancebuy.ca/products/xerjoffluxor-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like Luxor For Man or Woman, with prices starting as low as $295<span data-mce-fragment="1"> </span>. This fragrance retails for $434<span data-mce-fragment="1"> </span> meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4750142439486</id>
+      <title>Xerjoff Luxor Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">289.00</s:price>
+      <s:sku>XERJOLUXM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4750142439486</id>
+      <title>Tester - Xerjoff Luxor Parfum M 50ml Tester</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku>XERLUXM-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4536452546622</id>
+    <published>2020-05-17T18:43:46-04:00</published>
+    <updated>2020-05-17T18:43:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffgoldendallah-man"/>
+    <title>Xerjoff Golden Dallah For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffCofeeBreakGoldenDallah50ml-man.jpg?v=1599844084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            199.00 - 229.00
+            <a href="https://fragrancebuy.ca/products/xerjoffgoldendallah-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Xerjoff Golden Dallah Man and Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4536452546622</id>
+      <title>Xerjoff Golden Dallah Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>XERJGOLDDM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4536452546622</id>
+      <title>Tester - Xerjoff Golden Dallah Parfum M 50ml Tester (with cap)</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>XERJGOLDDM-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4536543641662</id>
+    <published>2020-05-17T18:43:26-04:00</published>
+    <updated>2020-05-17T18:43:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffalexandriaiii-man"/>
+    <title>Xerjoff Alexandria III For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/xerjoffAlex350-man.jpg?v=1599844086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like </span><span style="color: rgb(99, 115, 129);">Xerjoff Alexandria III For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 349.00. This fragrance retails for 459.00 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4536543641662</id>
+      <title>Xerjoff Alexandria III Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">259.00</s:price>
+      <s:sku>ALEXIIM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4487229734974</id>
+    <published>2020-04-17T18:47:14-04:00</published>
+    <updated>2020-04-17T18:47:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffaccentooverdose-man"/>
+    <title>Xerjoff Accento Overdose For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffOverdoseAccentoEDP100ml-man.jpg?v=1608659712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            189.00 - 249.95
+            <a href="https://fragrancebuy.ca/products/xerjoffaccentooverdose-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Sospiro Accento Overdose Fragrance | FragranceSerge Lutensbuy - Buy Direct and Save. The revolution is here.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boed</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>hermes</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>mensfragrance</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4487229734974</id>
+      <title>Xerjoff Accento Overdose M 100ml EDP Boxed</title>
+      <s:price currency="CAD">249.95</s:price>
+      <s:sku>XERACEOVDM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4487229734974</id>
+      <title>Tester -  Xerjoff Accento Overdose M 100ml EDP Tester (with cap)</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku>XERACCENTM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4452108828734</id>
+    <published>2020-03-26T18:50:07-04:00</published>
+    <updated>2020-03-26T18:50:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoff1861naxos-man"/>
+    <title>Xerjoff 1861 Naxos For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffNaxosEDP100ml-man.jpg?v=1608659682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            189.95 - 229.95
+            <a href="https://fragrancebuy.ca/products/xerjoff1861naxos-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Xerjoff 1861 Naxos Man and Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4452108828734</id>
+      <title>Xerjoff 1861 Naxos Parfum 100ml Boxed</title>
+      <s:price currency="CAD">229.95</s:price>
+      <s:sku>XERNAXEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4452108828734</id>
+      <title>Tester - Xerjoff 1861 Naxos Parfum 100ml Tester (with cap)</title>
+      <s:price currency="CAD">189.95</s:price>
+      <s:sku>XERJNAXM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4452108828734</id>
+      <title>95% Full - Xerjoff 1861 Naxos EDP 100ml Boxed</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku>XERNAXEDPM-100G</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2292309131326</id>
+    <published>2020-02-28T13:38:16-05:00</published>
+    <updated>2020-02-28T13:38:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffrenaissance-man"/>
+    <title>Xerjoff Renaissance For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffRenaissance100mlEDP-man.jpg?v=1607550878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            185.00 - 199.00
+            <a href="https://fragrancebuy.ca/products/xerjoffrenaissance-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Xerjoff Renaissance Man and Woman perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292309131326</id>
+      <title>Xerjoff Renaissance Parfum M 100ml Boxed</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>XERRENM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292309131326</id>
+      <title>Tester - Xerjoff Renaissance Parfum M 100ml Tester (with cap)</title>
+      <s:price currency="CAD">185.00</s:price>
+      <s:sku>XERREGM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2292773519422</id>
+    <published>2020-02-28T13:38:13-05:00</published>
+    <updated>2020-02-28T13:38:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffoudstarsceylon-man"/>
+    <title>Xerjoff Oud Stars Ceylon For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/xerjoffceylon-man.jpg?v=1588792595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            299.00 - 409.00
+            <a href="https://fragrancebuy.ca/products/xerjoffoudstarsceylon-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like </span><span style="color: rgb(99, 115, 129);">Xerjoff Oud Stars Ceylon For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 429.00. This fragrance retails for 722.00 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292773519422</id>
+      <title>Xerjoff Oud Stars Ceylon Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>XEROSTCEVM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292773519422</id>
+      <title>Tester - Xerjoff Oud Stars Ceylon Parfum M 50ml Tester</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>XEROSCM-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2292802650174</id>
+    <published>2020-02-28T13:38:11-05:00</published>
+    <updated>2020-02-28T13:38:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffivoryroute-man"/>
+    <title>Xerjoff Ivory Route For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjoffIvoryRoute50-man.jpg?v=1599843088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            159.00 - 199.00
+            <a href="https://fragrancebuy.ca/products/xerjoffivoryroute-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Xerjoff Ivory Route Man and Woman perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292802650174</id>
+      <title>Xerjoff Ivory Route Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>XERIVOROM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292802650174</id>
+      <title>Tester - Xerjoff Ivory Route Parfum M 50ml Tester</title>
+      <s:price currency="CAD">159.00</s:price>
+      <s:sku>XERIVOROM-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2292742914110</id>
+    <published>2020-02-28T13:38:04-05:00</published>
+    <updated>2020-02-28T13:38:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffcruzdelsurii-man"/>
+    <title>Xerjoff Cruz Del Sur II For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/xerjoffcruzdelsur2-man.jpg?v=1588792558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            199.00 - 229.95
+            <a href="https://fragrancebuy.ca/products/xerjoffcruzdelsurii-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Xerjoff Cruz Del Sur II Man and Woman perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292742914110</id>
+      <title>Xerjoff Cruz Del Sur II Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">229.95</s:price>
+      <s:sku>XERCRDSURIIM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2292742914110</id>
+      <title>Tester - Xerjoff Cruz Del Sur II Parfum M 50ml Tester (with cap)</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>XERCRDSURIIM-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4452113842238</id>
+    <published>2020-02-27T11:27:40-05:00</published>
+    <updated>2020-02-27T11:27:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffcomandante-man"/>
+    <title>Xerjoff Comandante For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/xerjoffcomandante100-man.jpg?v=1599843619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            175.00 - 225.00
+            <a href="https://fragrancebuy.ca/products/xerjoffcomandante-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like </span><span style="color: rgb(99, 115, 129);">Xerjoff Comandante For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 199.00. This fragrance retails for 263.00 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4452113842238</id>
+      <title>Xerjoff Comandante Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">175.00</s:price>
+      <s:sku>XERCOMEDPM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4452113842238</id>
+      <title>Xerjoff Comandante Parfum M 100ml Boxed</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>XERCOMEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4452113842238</id>
+      <title>Tester - Xerjoff Comandante Parfum M 100ml Tester</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>XERCOMM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4452110598206</id>
+    <published>2020-02-27T11:20:56-05:00</published>
+    <updated>2020-02-27T11:20:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffdon-man"/>
+    <title>Xerjoff Don For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/xerjoffdon-man.jpg?v=1599843617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            158.00 - 249.00
+            <a href="https://fragrancebuy.ca/products/xerjoffdon-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like </span><span style="color: rgb(99, 115, 129);">Xerjoff Don For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 175.00. This fragrance retails for 263.00 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4452110598206</id>
+      <title>Xerjoff Don Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">158.00</s:price>
+      <s:sku>XERDONEDPM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4452110598206</id>
+      <title>Xerjoff Don Parfum M 100ml Boxed</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>XERDONM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4452110598206</id>
+      <title>Tester - Xerjoff Don Parfum M 100ml Tester</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>XERJDONM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4452107452478</id>
+    <published>2020-02-27T11:14:40-05:00</published>
+    <updated>2020-02-27T11:14:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/xerjoffgao-man"/>
+    <title>Xerjoff Gao For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/XerjofOudStarsGao50ml-man.jpg?v=1599843615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            239.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Xerjoff produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Xerjoff perfumes like </span><span style="color: rgb(99, 115, 129);">Xerjoff Gao For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 249.95. This fragrance retails for 263.00 meaning you save even more and get the best possible deal. Get the best price on the newest Xerjoff perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4452107452478</id>
+      <title>Xerjoff Gao Parfum M 50ml Boxed</title>
+      <s:price currency="CAD">239.95</s:price>
+      <s:sku>XERGAOM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

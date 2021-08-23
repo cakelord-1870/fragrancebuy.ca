@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/blogs/deals.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/blogs/deals"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/blogs/deals/tagged/warehouse-sale.atom"/>
+  <title>Fragrancebuy.ca - Deals &amp; Promotions</title>
+  <updated>2019-09-02T19:04:00-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/blogs/deals/15732856-our-1st-anniversary-sale</id>
+    <published>2015-04-01T20:39:00-04:00</published>
+    <updated>2015-04-08T11:12:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/blogs/deals/15732856-our-1st-anniversary-sale"/>
+    <title>Our 1st Anniversary Sale</title>
+    <author>
+      <name>Harmeet Kalra</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><img src="//cdn.shopify.com/s/files/1/0274/8363/files/anniversary_grande.jpg?10832"></p>
+<p> </p>
+<p> <span style="text-decoration: underline;"><em><strong>Disclaimer: We don't really put a sale on our bargains often, but hey we only turn 1...once</strong></em></span></p>
+<p> </p>
+<p>** Please note: This sale is no longer active. Please check back on our second anniversary later this 2015.</p>]]>
+    </content>
+  </entry>
+</feed>

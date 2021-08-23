@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/aubusson.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-06-03T09:24:49-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593296236606</id>
+    <published>2021-06-03T09:24:49-04:00</published>
+    <updated>2021-06-03T09:24:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/aubussonintense-man"/>
+    <title>Aubusson Intense For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Aubusson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/AubussonIntense-man.jpg?v=1624036663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aubusson<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Aubusson produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Aubusson perfumes like Aubusson Intense </span><span>For Man,</span><span> with prices starting as low as $4. This fragrance retails for $25 meaning you save even more and get the best possible deal. Get the best price on the newest Aubusson Intense perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593296236606</id>
+      <title>Tester - Aubusson Intense Man 100ml Tester</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>AUBIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593294467134</id>
+    <published>2021-06-03T09:18:57-04:00</published>
+    <updated>2021-06-03T09:18:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/aubusson-man"/>
+    <title>Aubusson Man For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Aubusson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Aubusson-man.jpg?v=1625008666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aubusson<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Aubusson produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Aubusson perfumes like Aubusson Man </span><span>For Man,</span><span> with prices starting as low as $4. This fragrance retails for $22 meaning you save even more and get the best possible deal. Get the best price on the newest Aubusson Man perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593294467134</id>
+      <title>Tester - Aubusson  Man 100ml Tester</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>AUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

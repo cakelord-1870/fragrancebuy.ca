@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/jovan-musk.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2018-04-19T17:22:08-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2052598759486</id>
+    <published>2018-04-19T17:22:08-04:00</published>
+    <updated>2018-04-19T17:22:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanmuskoil-woman"/>
+    <title>Jovan Musk Oil For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanuskoil-woman.jpg?v=1588340080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Jovan Musk Oil Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2052598759486</id>
+      <title>Oil - Jovan Musk Oil W 10ml Boxed</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>JOVMOILW-10B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/449106052</id>
+    <published>2015-03-19T19:18:00-04:00</published>
+    <updated>2015-03-19T19:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanginsengnrg-man"/>
+    <title>Jovan Ginseng NRG For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanginseng-man_b1e7cce9-9566-4739-b7ef-62bb15767905.jpg?v=1556827390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            14.45 - 17.95
+            <a href="https://fragrancebuy.ca/products/jovanginsengnrg-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Jovan Musk produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Jovan Musk perfumes like </span><span style="color: rgb(99, 115, 129);">Jovan Ginseng NRG For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 14.88. This fragrance retails for 25.00 meaning you save even more and get the best possible deal. Get the best price on the newest Jovan Musk perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>ginseng</s:tag>
+    <s:tag>jovan musk</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>rare</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/449106052</id>
+      <title>Jovan Ginseng NRG Cologne Spray M 30ml Boxed</title>
+      <s:price currency="CAD">14.45</s:price>
+      <s:sku>JOVGINM-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/449106052</id>
+      <title>Set -Jovan Musk GINSENG M 15ml Gift Set (w/ bonus Jovan Musk/Jovan White Musk/Jovan Sex Appeal)</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>JOVANOMNISM-15S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6336062980</id>
+    <published>2014-08-10T17:10:00-04:00</published>
+    <updated>2014-08-10T17:10:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanmuskintenseoud-man"/>
+    <title>Jovan Musk Intense Oud</title>
+    <s:type>Boxed</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanmusknewintenseoud-man.jpg?v=1588340058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Jovan Musk Intense Oud Woman Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>Jovan Musk</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>woman fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6336062980</id>
+      <title>Jovan Musk Intense Oud W 88ml Boxed</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>JOVMIOM-88B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/355052409</id>
+    <published>2014-08-10T17:10:00-04:00</published>
+    <updated>2014-08-10T17:10:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanblackmusk-man"/>
+    <title>Jovan Black Musk For Man</title>
+    <s:type>Boxed</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanblackmusk-man.jpg?v=1556827797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed<br>
+        <strong>Price: </strong>
+            10.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Jovan Musk produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Jovan Musk perfumes like </span><span style="color: rgb(99, 115, 129);">Jovan Black Musk For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 10.45. This fragrance retails for 39.00 meaning you save even more and get the best possible deal. Get the best price on the newest Jovan Musk perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Jovan Musk</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/355052409</id>
+      <title>Jovan Black Musk M 88ml Boxed</title>
+      <s:price currency="CAD">10.45</s:price>
+      <s:sku>JOVBMM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/335687365</id>
+    <published>2014-06-27T09:01:00-04:00</published>
+    <updated>2014-06-27T09:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanblackmusk-woman"/>
+    <title>Jovan Black Musk For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanblackmusk-woman_67013391-4380-471e-8f1a-26a658a7a86d.jpg?v=1556827768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            10.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Jovan Musk produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Jovan Musk perfumes like </span><span style="color: rgb(99, 115, 129);">Jovan Black Musk For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 10.45. This fragrance retails for 39.00 meaning you save even more and get the best possible deal. Get the best price on the newest Jovan Musk perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black musk</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>Jovan</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/335687365</id>
+      <title>Jovan Black Musk W 100ml Boxed</title>
+      <s:price currency="CAD">10.45</s:price>
+      <s:sku>JOVBMW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/209182521</id>
+    <published>2014-01-10T15:00:19-05:00</published>
+    <updated>2014-01-10T15:00:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanwhitemusk-man"/>
+    <title>Jovan White Musk For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanwhitemusk-man_db80f49f-d626-4d5b-afcb-9f09d8655d8c.jpg?v=1556827242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Online warehouse sale. Guaranteed best price in Canada for Jovan White Musk Man Cologne | fragrancebuy - Buy Direct and Save. The revolution is here</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>jovan musk</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>white musk</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/209182521</id>
+      <title>Jovan White Musk (New Pack)  M 88ml Boxed (New Pack)</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>JOVWMM-88B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/219484291087</id>
+    <published>2013-10-06T13:34:00-04:00</published>
+    <updated>2013-10-06T13:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanpinkmusk-woman"/>
+    <title>Jovan Pink Musk Vintage Pack For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanpinkmusk-woman.jpg?v=1556827302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Jovan Musk Pink Woman Perfume| fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>jovan musk</s:tag>
+    <s:tag>newsetmay</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:tag>xmasset</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/219484291087</id>
+      <title>Tester - Jovan Pink Musk W 50ml Unboxed</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>JOVPMW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162845315</id>
+    <published>2013-10-06T13:34:00-04:00</published>
+    <updated>2013-10-06T13:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanwhitemusk-woman"/>
+    <title>Jovan White Musk For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanwhitemusk-woman.jpg?v=1556827187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            9.95 - 16.95
+            <a href="https://fragrancebuy.ca/products/jovanwhitemusk-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Jovan Musk produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Jovan Musk perfumes like </span><span style="color: rgb(99, 115, 129);">Jovan White Musk For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 13.95. This fragrance retails for 29.00 meaning you save even more and get the best possible deal. Get the best price on the newest Jovan Musk perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>jovan musk</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845315</id>
+      <title>Jovan White Musk W 96Ml Boxed</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>JOVWMW-96B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845315</id>
+      <title>Set - Jovan White Musk W 60ml Set (with bonus 30ml)</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>JOVWHMUW-60S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845315</id>
+      <title>95% Full Tester - Jovan White Musk W 60ml Unboxed (with cap, slight leak at collar))</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>JOVNWHTMSKCRYW-60T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845315</id>
+      <title>Tester - Jovan White Musk W 96ml Spray Tester</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>JOVMUWH-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162845313</id>
+    <published>2013-10-06T13:34:00-04:00</published>
+    <updated>2013-10-06T13:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovansexappeal-man"/>
+    <title>Jovan Musk Sex Appeal For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovansexappeal-man_e3fc822a-5e6a-4bc5-a9c4-34f7f75741e4.jpg?v=1556827263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            9.00 - 19.00
+            <a href="https://fragrancebuy.ca/products/jovansexappeal-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Jovan Musk produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Jovan Musk perfumes like </span><span style="color: rgb(99, 115, 129);">Jovan Musk Sex Appeal For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 10.95. This fragrance retails for 39.00 meaning you save even more and get the best possible deal. Get the best price on the newest Jovan Musk perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>jovan musk</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>sex appeal</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845313</id>
+      <title>Jovan Sex Appeal M 88Ml Boxed</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>JOVSAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845313</id>
+      <title>Damaged Box - Jovan Sex Appeal M 88ml Boxed</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>JOVSAMBDAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162845311</id>
+    <published>2013-10-06T13:34:00-04:00</published>
+    <updated>2013-10-06T13:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanmusk-woman"/>
+    <title>Jovan Musk For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanmusk-woman.jpg?v=1556827326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            11.00 - 13.00
+            <a href="https://fragrancebuy.ca/products/jovanmusk-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Jovan Musk Woman Perfume| fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>jovan musk</s:tag>
+    <s:tag>newsetmay</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:tag>xmasset</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845311</id>
+      <title>Jovan Musk W 96ml Boxed</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>JOVMW-96B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845311</id>
+      <title>Jovan Musk W 50ml Damaged Box</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>JOVMDMW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162845309</id>
+    <published>2013-10-06T13:34:00-04:00</published>
+    <updated>2013-10-06T13:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanmusk-man"/>
+    <title>Jovan Musk For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanmusk-man.jpg?v=1556827427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            9.00 - 15.95
+            <a href="https://fragrancebuy.ca/products/jovanmusk-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Jovan Musk produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Jovan Musk perfumes like </span><span style="color: rgb(99, 115, 129);">Jovan Musk For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 9.95. This fragrance retails for 25.00 meaning you save even more and get the best possible deal. Get the best price on the newest Jovan Musk perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>jovan musk</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845309</id>
+      <title>Jovan Musk M 88Ml Boxed</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>JOVMM-88B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845309</id>
+      <title>Tester -  Jovan Musk Splash M 118ml Tester</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>JOVMSPM-118T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162845307</id>
+    <published>2013-10-06T13:34:00-04:00</published>
+    <updated>2013-10-06T13:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/jovanmuskaftershave-man"/>
+    <title>Jovan Musk Man After Shave</title>
+    <s:type>After Shave</s:type>
+    <s:vendor>Jovan Musk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/jovanmuskaftershave-man.jpg?v=1556827719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovan Musk<br>
+        <strong>Type: </strong>After Shave<br>
+        <strong>Price: </strong>
+            10.45 - 23.00
+            <a href="https://fragrancebuy.ca/products/jovanmuskaftershave-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Jovan Musk produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Jovan Musk perfumes like </span><span style="color: rgb(99, 115, 129);">Jovan Musk Man After Shave,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 11.00. This fragrance retails for 29.00 meaning you save even more and get the best possible deal. Get the best price on the newest Jovan Musk perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>after shave</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>jovan musk</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845307</id>
+      <title>After Shave - Jovan Musk A/S M 118ml Boxed</title>
+      <s:price currency="CAD">10.45</s:price>
+      <s:sku>JOVANMM-118A</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845307</id>
+      <title>JUMBO - After Shave Jovan Musk A/S M 240ml Boxed</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>JOVMM-240A</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162845307</id>
+      <title>Set - Jovan Musk M 59ml (After Shave, Cologne) Set</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>JOVNMSKASCM-59S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

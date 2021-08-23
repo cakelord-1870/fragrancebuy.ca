@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/adrienne-vittadini.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2013-10-06T13:32:00-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/3743653572</id>
+    <published>2013-10-06T13:32:00-04:00</published>
+    <updated>2013-10-06T13:32:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/adriennevittadiniclassic-woman"/>
+    <title>Adrienne Vittadini (Vintage 1999) Classic For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Adrienne Vittadini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/adriennevitaddini-woman.jpg?v=1547239900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adrienne Vittadini<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            23.00 - 25.00
+            <a href="https://fragrancebuy.ca/products/adriennevittadiniclassic-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Adrienne Vittadini Boxed Woman Perfume| fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adrienne vittaini</s:tag>
+    <s:tag>av</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/3743653572</id>
+      <title>Tester (Final Sale) - Adrienne Vittadini Classic EDP W 50ml Unboxed (Aged Vanilla)</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ADRIENVW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/3743653572</id>
+      <title>Vintage Riviera Tester - Vintage Venezia Adrienne Vittadini EDP W 50ml Unboxed (80% Full)</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>RIVIERVINTW-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162844055</id>
+    <published>2013-10-06T13:32:00-04:00</published>
+    <updated>2013-10-06T13:32:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/av-woman"/>
+    <title>Adrienne Vittadini For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Adrienne Vittadini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/av-woman_edfc203a-62e5-4e62-bcfd-0cd5eb180fa1.jpg?v=1601740674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adrienne Vittadini<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Adrienne Vittadini produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Adrienne Vittadini perfumes like </span><span style="color: rgb(99, 115, 129);">Adrienne Vittadini For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 19.00. This fragrance retails for 84.00 meaning you save even more and get the best possible deal. Get the best price on the newest Adrienne Vittadini perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adrienne vittaini</s:tag>
+    <s:tag>av</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844055</id>
+      <title>Adrienne Vittadini Av W 90Ml Boxed</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>AVW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

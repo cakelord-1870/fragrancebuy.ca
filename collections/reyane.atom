@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/reyane.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-04-07T19:50:38-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6568827617342</id>
+    <published>2021-04-07T19:50:38-04:00</published>
+    <updated>2021-04-07T19:50:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/insurrection-pure-ii-sport-edition-for-man"/>
+    <title>Insurrection Pure II Sport Edition For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Reyane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/InsurrectionPure2SportEdition-man.jpg?v=1618503889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reyane<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Reyane produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Reyaneperfumes like Insurrection Pure II Sport Edition </span><span>For Man,</span><span> with prices starting as low as $25. This fragrance retails for $68 meaning you save even more and get the best possible deal. Get the best price on the newest Reyane perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6568827617342</id>
+      <title>Insurrection Pure II Sport M 90ml Boxed</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>INSPUR2SPOM-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2581986803774</id>
+    <published>2019-09-13T19:10:26-04:00</published>
+    <updated>2019-09-13T19:10:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/insurrectionpureiiextreme-man"/>
+    <title>Insurrection Pure II Extreme Edition by Reyane For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Reyane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/insurrectionpureextreme-man.jpg?v=1588297316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reyane<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            20.00 - 24.46
+            <a href="https://fragrancebuy.ca/products/insurrectionpureiiextreme-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Reyane produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Reyane perfumes like </span><span style="color: rgb(99, 115, 129);">Insurrection Pure II Extreme Edition by Reyane For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 24.46. This fragrance retails for 68.00 meaning you save even more and get the best possible deal. Get the best price on the newest Reyane perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Insurrection</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>reyane</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2581986803774</id>
+      <title>Insurrection Pure II Extreme Edition M 90ml Boxed</title>
+      <s:price currency="CAD">24.46</s:price>
+      <s:sku>INSURP2EXTREM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2581986803774</id>
+      <title>98% Full Tester - Insurrection Pure II Extreme Edition M 90ml (No Cello)</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>INSURP2EXTREM-100G</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1409587314750</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/elsatysgentle-man"/>
+    <title>Elsatys Gentle (Sauvage Twist) For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Reyane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/reyannegentleelsatys-man.jpg?v=1588691028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reyane<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Reyane produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Reyane perfumes like </span><span style="color: rgb(99, 115, 129);">Elsatys Gentle (Sauvage Twist) For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 25.00. This fragrance retails for 72.00 meaning you save even more and get the best possible deal. Get the best price on the newest Reyane perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1409587314750</id>
+      <title>Elsatys Gentle By Reyane M 100ml Boxed</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ELSGM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5030963524</id>
+    <published>2014-03-14T14:42:00-04:00</published>
+    <updated>2014-03-14T14:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/insurrectiondark-man"/>
+    <title>Insurrection DARK by Reyane For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Reyane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/insurrecctiondark-man.jpg?v=1559856327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reyane<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Reyane produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Reyane perfumes like </span><span style="color: rgb(99, 115, 129);">Insurrection DARK by Reyane For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 23.95. This fragrance retails for 78.00 meaning you save even more and get the best possible deal. Get the best price on the newest Reyane perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Insurrection</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>reyane</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5030963524</id>
+      <title>Insurrection Dark By Reyane M 90ml Boxed</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>INSPDM-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5030963524</id>
+      <title>Insurrection Pure II Dark By Reyane M 90ml Boxed (No cello)</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>INSPUREDARM-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4516878916</id>
+    <published>2014-03-14T14:42:00-04:00</published>
+    <updated>2014-03-14T14:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/insurrectionwild-man"/>
+    <title>Insurrection Wild II by Reyane For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Reyane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/insurretionwild-man.jpg?v=1559856214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reyane<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            22.99 - 32.95
+            <a href="https://fragrancebuy.ca/products/insurrectionwild-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Reyane produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Reyane perfumes like </span><span style="color: rgb(99, 115, 129);">Insurrection Wild II by Reyane For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 27.95. This fragrance retails for 62.00 meaning you save even more and get the best possible deal. Get the best price on the newest Reyane perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Insurrection</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>reyane</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4516878916</id>
+      <title>Insurrection Wild By Reyane M 90ml Boxed</title>
+      <s:price currency="CAD">27.45</s:price>
+      <s:sku>INSURWILDM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4516878916</id>
+      <title>Set - Insurrection Wild By Reyane M 100ml Set (with large deodorant)</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>INSURWILDM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4516878916</id>
+      <title>95% Full - Insurrection Wild By Reyane M 90ml Boxed</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>INSURWILDM-100G</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1813800132</id>
+    <published>2014-03-14T14:42:00-04:00</published>
+    <updated>2014-03-14T14:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/insurrectionpureiibyreyane-man"/>
+    <title>Insurrection Pure II by Reyane For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Reyane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/insurrectionpure3-man.jpg?v=1559856301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reyane<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Reyane produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Reyane perfumes like </span><span style="color: rgb(99, 115, 129);">Insurrection Pure II by Reyane For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 23.95. This fragrance retails for 68.00 meaning you save even more and get the best possible deal. Get the best price on the newest Reyane perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Insurrection</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>reyane</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1813800132</id>
+      <title>Insurrection Pure II By Reyane M 90ml</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>INSP2RM-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/265338633</id>
+    <published>2014-03-14T14:42:00-04:00</published>
+    <updated>2014-03-14T14:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/insurrection-man"/>
+    <title>Insurrection by Reyane For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Reyane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/insurrectionreyanne-woman.jpg?v=1559856264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reyane<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            22.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Reyane produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Reyane perfumes like </span><span style="color: rgb(99, 115, 129);">Insurrection by Reyane For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 23.95. This fragrance retails for 38.00 meaning you save even more and get the best possible deal. Get the best price on the newest Reyane perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Insurrection</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>reyane</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/265338633</id>
+      <title>Insurrection by Reyane M 100ml Boxed</title>
+      <s:price currency="CAD">22.71</s:price>
+      <s:sku>INSM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

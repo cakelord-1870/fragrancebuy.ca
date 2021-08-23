@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/lacoste.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-06-08T15:47:45-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6595382771774</id>
+    <published>2021-06-08T15:47:45-04:00</published>
+    <updated>2021-06-08T15:47:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostel12rose2021edp-woman"/>
+    <title>Lacoste L.12.12 Rose (2021) EDP For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/LacosteL1212Rose2021EDP-woman.jpg?v=1624038218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            55.00 - 59.00
+            <a href="https://fragrancebuy.ca/products/lacostel12rose2021edp-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like Lacoste L12 Rose (2021) EDP </span><span>For Woman,</span><span> with prices starting as low as $97. This fragrance retails for $113 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste L12 Rose (2021) EDP perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6595382771774</id>
+      <title>Lacoste L.12.12 Rose (2021) EDP W 50ml Boxed</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>LACSTEL12RSEEDPW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6595382771774</id>
+      <title>Tester - Lacoste L.12.12 Rose (2021) EDP W 100ml Tester</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>LACSTEL12RSEEDPW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6595381035070</id>
+    <published>2021-06-08T15:41:59-04:00</published>
+    <updated>2021-06-08T15:41:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacosteblancedpedition-man"/>
+    <title>Lacoste Blanc EDP Edition (2021) For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/LacosteBlancEDP2021-man.jpg?v=1624038174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            51.95 - 65.00
+            <a href="https://fragrancebuy.ca/products/lacosteblancedpedition-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like Lacoste Blanc EDP Edition </span><span>For Man,</span><span> with prices starting as low as $100. This fragrance retails for $115 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste Blanc EDP Edition perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6595381035070</id>
+      <title>Lacoste Blanc EDP M 100ml Boxed</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>LACSTEBLNCEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6595381035070</id>
+      <title>Tester - Lacoste Blanc EDP M 100ml Tester</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>LACSTEBLNCEDPM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4801315733566</id>
+    <published>2021-01-20T14:56:43-05:00</published>
+    <updated>2021-01-20T14:56:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostematchpoint-man"/>
+    <title>Lacoste Match Point For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostematchpoint-man.jpg?v=1621529259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            63.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on </span><span data-mce-fragment="1">Lacoste</span><span> perfumes like </span><span data-mce-fragment="1">Match Point</span><span data-mce-fragment="1"> </span><span> For Man, with prices starting as low as </span><span data-mce-fragment="1">$69</span><span data-mce-fragment="1"> </span><span>. This fragrance retails for </span><span data-mce-fragment="1">$95</span><span data-mce-fragment="1"> </span><span> meaning you save even more and get the best possible deal. Get the best price on the newest </span><span data-mce-fragment="1">Lacoste</span><span> perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4801315733566</id>
+      <title>Lacoste Match Point M 100ml Boxed</title>
+      <s:price currency="CAD">63.95</s:price>
+      <s:sku>LACMPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4372725596222</id>
+    <published>2019-11-27T19:04:49-05:00</published>
+    <updated>2019-11-27T19:04:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostefrenchpanache-woman"/>
+    <title>Lacoste French Panache For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostefrenchpanache-man_3d65fbf4-3179-4d28-9b17-303c5a295da5.jpg?v=1588343253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            52.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste French Panache For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 53.95. This fragrance retails for 92.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4372725596222</id>
+      <title>Lacoste French Panache EDT W 90ml Boxed</title>
+      <s:price currency="CAD">52.79</s:price>
+      <s:sku>LACFRENPW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4300928745534</id>
+    <published>2019-10-23T12:17:27-04:00</published>
+    <updated>2019-10-23T12:17:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostelhommetimeless-man"/>
+    <title>Lacoste L&apos;Homme Timeless For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacotetimeless-man.jpg?v=1588609752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            29.95 - 35.00
+            <a href="https://fragrancebuy.ca/products/lacostelhommetimeless-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste L'Homme Timeless For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 36.95. This fragrance retails for 72.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4300928745534</id>
+      <title>Tester - Lacoste L&apos;Homme Timeless EDT M 100ml Tester</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>LACTIMM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4300928745534</id>
+      <title>Lacoste L&apos;Homme Timeless EDT M 50ml Boxed</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>LACLHOMTIM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4113102635070</id>
+    <published>2019-09-24T17:28:16-04:00</published>
+    <updated>2019-09-24T17:28:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostefrenchpanache-man"/>
+    <title>Lacoste French Panache For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostefrenchpanache-man.jpg?v=1588343233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            42.90 - 53.96
+            <a href="https://fragrancebuy.ca/products/lacostefrenchpanache-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste French Panache For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 43.95. This fragrance retails for 87.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4113102635070</id>
+      <title>Tester - Lacoste French Panache M 100ml Tester</title>
+      <s:price currency="CAD">42.90</s:price>
+      <s:sku>LACFRPANM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4113102635070</id>
+      <title>Lacoste French Panache M 100ml Boxed</title>
+      <s:price currency="CAD">53.96</s:price>
+      <s:sku>LACPANM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2294123331646</id>
+    <published>2019-08-02T11:29:45-04:00</published>
+    <updated>2019-08-02T11:29:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostepourluieaufraiche-man"/>
+    <title>Lacoste Pour Lui Eau Fraiche L.12.12 For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacosteaudelacosteeaufraiche-man.jpg?v=1588343190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Pour Lui Eau Fraiche L.12.12 For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 49.95. This fragrance retails for 92.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2294123331646</id>
+      <title>Lacoste Pour Lui Eau Fraiche M 100ml Boxed</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>LACFRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2020586160190</id>
+    <published>2018-04-19T17:22:08-04:00</published>
+    <updated>2018-04-19T17:22:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostefemmeintense-woman"/>
+    <title>Lacoste Femme Intense For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostefemmeintense-woman.jpg?v=1588343212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Femme Intense For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 65.95. This fragrance retails for 118.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2020586160190</id>
+      <title>Lacoste Femme Intense EDP W 90ml Boxed</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku>LACINTEDPW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1961605529662</id>
+    <published>2018-04-19T17:22:08-04:00</published>
+    <updated>2018-04-19T17:22:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostelegere-woman"/>
+    <title>Lacoste Femme Legere Edition For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostefemmelegere-woman.jpg?v=1556126160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Lacoste Femme Legere Edition  Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1961605529662</id>
+      <title>Lacoste Femme Legere Edition Edp W 30ml Boxed (No Cello)</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>LACBLEGEW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1978170081342</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostelhommeintense-man"/>
+    <title>Lacoste L&apos;Homme Intense Edition For Man</title>
+    <s:type>Tester</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/locostehommeintense-man.jpg?v=1588612328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Tester<br>
+        <strong>Price: </strong>
+            41.95 - 57.95
+            <a href="https://fragrancebuy.ca/products/lacostelhommeintense-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste L'Homme Intense Edition For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 42.77. This fragrance retails for 95.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1978170081342</id>
+      <title>Tester - Lacoste L&apos;Homme Intense M 100ml Tester (with cap)</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>LACINTM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1978170081342</id>
+      <title>Lacoste L&apos;Homme Intense M 100ml Boxed</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>LACLHOMM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1978170081342</id>
+      <title>Jumbo - Lacoste L&apos;Homme Intense M 150ml Boxed</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>LACINTM-150B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/610228535358</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostelhomme2017-man"/>
+    <title>Lacoste L&apos;Homme For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostelhommeedition-man.jpg?v=1588343276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            32.21 - 55.00
+            <a href="https://fragrancebuy.ca/products/lacostelhomme2017-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste L'Homme For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 35.00. This fragrance retails for 98.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/610228535358</id>
+      <title>Tester - Lacoste L&apos;Homme M 100ml Tester (with cap)</title>
+      <s:price currency="CAD">32.21</s:price>
+      <s:sku>LACLHM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/610228535358</id>
+      <title>Lacoste L&apos;Homme M 100ml Boxed</title>
+      <s:price currency="CAD">41.00</s:price>
+      <s:sku>LACLHM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/610228535358</id>
+      <title>Set - Lacoste L&apos;homme EDT M 100ml Gift Set (w/ 150ml Deo Spray)</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>LACLHOMMEM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/314321449</id>
+    <published>2015-06-27T12:11:00-04:00</published>
+    <updated>2015-06-27T12:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacosteverte-man"/>
+    <title>Lacoste Eau Verte For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/LacosteVert-man.jpg?v=1556124335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            43.95 - 52.50
+            <a href="https://fragrancebuy.ca/products/lacosteverte-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Lacoste Eau Verte Man Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bs2</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Lacoste Verte</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/314321449</id>
+      <title>Lacoste Eau Verte M 100ml Boxed</title>
+      <s:price currency="CAD">52.50</s:price>
+      <s:sku>LACVM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/314321449</id>
+      <title>Tester - Lacoste Eau Verte M 100ml Tester</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>LACVM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/11402636367</id>
+    <published>2014-11-26T13:00:00-05:00</published>
+    <updated>2014-11-26T13:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/eaulacostemagnetic-woman"/>
+    <title>Lacoste Eau Lacoste L.12.12. Magnetic For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostemagneticwoman-woman.jpg?v=1588101610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            46.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Eau Lacoste L.12.12. Magnetic For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 49.95. This fragrance retails for 88.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>eau</s:tag>
+    <s:tag>femme</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11402636367</id>
+      <title>Lacoste Eau De Lacoste L.12.12 Magnetic W 90ml Boxed</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>LACEDLMW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4578291780</id>
+    <published>2014-11-26T13:00:00-05:00</published>
+    <updated>2014-11-26T13:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacosteeauelegant-woman"/>
+    <title>Lacoste Eau De Lacoste L.12.12. Elle &quot;Elegant&quot; For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacosteElegantW-woman.jpg?v=1556126295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Eau De Lacoste L.12.12. Elle "Elegant" For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 46.95. This fragrance retails for 88.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>eau</s:tag>
+    <s:tag>femme</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4578291780</id>
+      <title>Lacoste Eau De Lacoste L.12.12 Elegant W 90ml Boxed</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>EAULACELEGW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4578286596</id>
+    <published>2014-11-26T13:00:00-05:00</published>
+    <updated>2014-11-26T13:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacosteeaudelacostenatural-woman"/>
+    <title>Lacoste Eau Lacoste L.12.12. Elle &quot;Natural&quot; For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostePOURELLEnatural-woman.jpg?v=1556124696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Eau De Lacoste Natural L.12.12 Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>eau</s:tag>
+    <s:tag>femme</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4578286596</id>
+      <title>Lacoste Eau De Lacoste L.12.12 Natural W 90ml Boxed</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku>LACNATW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4574371524</id>
+    <published>2014-11-26T13:00:00-05:00</published>
+    <updated>2014-11-26T13:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/eaulacostesparkling-woman"/>
+    <title>Lacoste Eau De Lacoste L.12.12. Elle &quot;Sparkling&quot; For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostesparkling-woman.jpg?v=1556124443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Eau De Lacoste L.12.12. Elle "Sparkling" For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 51.00. This fragrance retails for 88.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>eau</s:tag>
+    <s:tag>femme</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4574371524</id>
+      <title>Lacoste Eau De Lacoste L.12.12 Sparkling W 90ml Boxed</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>LACSPARKLW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4519053572</id>
+    <published>2014-11-26T13:00:00-05:00</published>
+    <updated>2014-11-26T13:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacosteeausensuelle-woman"/>
+    <title>Eau De Lacoste Sensuelle For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacosteeaudelacostesnsuellaW-woman.jpg?v=1556133307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            33.95 - 61.95
+            <a href="https://fragrancebuy.ca/products/lacosteeausensuelle-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Eau De Lacoste Sensuelle Woman Perfume| fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>eau</s:tag>
+    <s:tag>femme</s:tag>
+    <s:tag>former beige</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4519053572</id>
+      <title>Eau De Lacoste Sensuelle EDP W 30ml Boxed</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>EAULACSENSW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4519053572</id>
+      <title>Eau de Lacoste Sensuelle Femme Edp W 50ml Boxed</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>EAULSW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4519053572</id>
+      <title>Eau de Lacoste Sensuelle Femme Edp W 90ml Boxed</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>EAUDLSW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/387206512</id>
+    <published>2014-11-26T13:00:00-05:00</published>
+    <updated>2014-11-26T13:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacosteeaufemme-woman"/>
+    <title>Lacoste Eau De Femme For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/eaudelacostefemme-woman.jpg?v=1588203432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            25.95 - 41.95
+            <a href="https://fragrancebuy.ca/products/lacosteeaufemme-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Eau De Femme For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 25.95. This fragrance retails for 48.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>eau</s:tag>
+    <s:tag>femme</s:tag>
+    <s:tag>former beige</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/387206512</id>
+      <title>Lacoste &quot;Eau de Femme&quot; Edp W 30ml Boxed</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>EAULFW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/387206512</id>
+      <title>Lacoste &quot;Eau de Femme&quot; EDP W 50ml Boxed</title>
+      <s:price currency="CAD">33.39</s:price>
+      <s:sku>EAULW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/387206512</id>
+      <title>Eau de Lacoste Femme Edp W 90ml Boxed</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>EAULACW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/387206512</id>
+      <title>Tester - Eau De Lacoste Femme EDP W 90ml Tester</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>EAUDLFW-90T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/370689528</id>
+    <published>2014-09-29T18:39:00-04:00</published>
+    <updated>2014-09-29T18:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostelive-man"/>
+    <title>Lacoste Live Pour Homme For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/LacosteLiveM-man.jpg?v=1588343037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            23.95 - 39.95
+            <a href="https://fragrancebuy.ca/products/lacostelive-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Live Pour Homme For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 23.95. This fragrance retails for 52.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>live</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>pour homme</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370689528</id>
+      <title>Lacoste Live M 40ml Boxed</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>LACLM-40B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370689528</id>
+      <title>Tester - Lacoste Live M 100ml Tester</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LACLIVM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370689528</id>
+      <title>Lacoste Live M 100ml Boxed (No Cello)</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>LACLIM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/370683140</id>
+    <published>2014-09-29T17:35:00-04:00</published>
+    <updated>2014-09-29T17:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacosteinspiration-woman"/>
+    <title>Lacoste Inspiration For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/LacosteInspirationW-woman.jpg?v=1556125847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Inspiration For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 43.95. This fragrance retails for 52.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxingday</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>inspiration</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370683140</id>
+      <title>Lacoste Inspiration W 30ml Boxed</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>LACIW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/11402657871</id>
+    <published>2014-09-27T12:47:00-04:00</published>
+    <updated>2014-09-27T12:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostemagnetic-man"/>
+    <title>Lacoste Magnetic Pour Lui For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostemagnetic-man.jpg?v=1588103561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Magnetic Pour Lui For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 45.00. This fragrance retails for 92.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>blanc</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>eau lacoste</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11402657871</id>
+      <title>Lacoste Pour Lui Magnetic M 100ml Boxed</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>LACMM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/3614827204</id>
+    <published>2014-09-27T12:47:00-04:00</published>
+    <updated>2014-09-27T12:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacosteneon-man"/>
+    <title>Lacoste NEON For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/LacosteNeon-man.jpg?v=1556125041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste NEON For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 55.00. This fragrance retails for 92.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>blanc</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>eau lacoste</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/3614827204</id>
+      <title>Lacoste Neon M 100ml Boxed</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>LACELNEOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/480601732</id>
+    <published>2014-09-27T12:47:00-04:00</published>
+    <updated>2014-09-27T12:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacosteyellowjaune-man"/>
+    <title>Lacoste Jaune (Yellow) Optimistic For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostjaune-wman.jpg?v=1556124311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            27.95 - 45.00
+            <a href="https://fragrancebuy.ca/products/lacosteyellowjaune-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Jaune (Yellow) Optimistic For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 27.95. This fragrance retails for 68.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>eau lacoste</s:tag>
+    <s:tag>jaune</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/480601732</id>
+      <title>Lacoste Jaune (Yellow) M 50ml Boxed</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LACJAUNM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/480601732</id>
+      <title>Lacoste Jaune (Yellow) M 100Ml Boxed</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>LACJYM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/480601732</id>
+      <title>Tester - Lacoste Jaune (Yellow) M 100ml Tester</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>LACJM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/370263244</id>
+    <published>2014-09-27T12:47:00-04:00</published>
+    <updated>2014-09-27T12:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostebleu-man"/>
+    <title>Lacoste Bleu (Blue) For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostepowerfulblue-man.jpg?v=1556124665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            29.00 - 49.95
+            <a href="https://fragrancebuy.ca/products/lacostebleu-man">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Bleu (Blue) For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 29.00. This fragrance retails for 48.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>blanc</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>eau lacoste</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370263244</id>
+      <title>Lacoste Bleu M 30ml Boxed</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku>LACBLEUM-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370263244</id>
+      <title>Lacoste Bleu M 50ml Boxed</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>LACBLEM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370263244</id>
+      <title>Lacoste Bleu M 100Ml Boxed</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>LACBLEM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370263244</id>
+      <title>Tester - Lacoste Bleu M 100ml Tester</title>
+      <s:price currency="CAD">45.95</s:price>
+      <s:sku>LACBLEUM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370263244</id>
+      <title>95% Full - Lacoste Bleu M 100Ml Boxed</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>LACBLEM-100G</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/370127892</id>
+    <published>2014-09-26T23:19:00-04:00</published>
+    <updated>2014-09-26T23:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/lacostedreamofpink-woman"/>
+    <title>Lacoste Dream Of Pink For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/lacostedreamofpink-woman_68c794b5-4b5b-4d70-9d9e-5f92186a7b24.jpg?v=1556133353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            65.00 - 79.00
+            <a href="https://fragrancebuy.ca/products/lacostedreamofpink-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Lacoste produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Lacoste perfumes like </span><span style="color: rgb(99, 115, 129);">Lacoste Dream Of Pink For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 61.95. This fragrance retails for 72.00 meaning you save even more and get the best possible deal. Get the best price on the newest Lacoste perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canadaday</s:tag>
+    <s:tag>dream of pink</s:tag>
+    <s:tag>lacoste</s:tag>
+    <s:tag>lucky7</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370127892</id>
+      <title>Lacoste Dream Of Pink W 50ml Boxed</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>LACDOPW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370127892</id>
+      <title>Lacoste Dream Of Pink W 90ml Boxed</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>LACDOPW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

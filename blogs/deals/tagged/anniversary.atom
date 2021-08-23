@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/blogs/deals.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/blogs/deals"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/blogs/deals/tagged/anniversary.atom"/>
+  <title>Fragrancebuy.ca - Deals &amp; Promotions</title>
+  <updated>2019-09-02T19:04:00-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/blogs/deals/75214404-celebrate-our-2nd-anniversary-the-fashion-bash-is-on-now</id>
+    <published>2015-11-01T22:41:00-05:00</published>
+    <updated>2016-03-05T22:49:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/blogs/deals/75214404-celebrate-our-2nd-anniversary-the-fashion-bash-is-on-now"/>
+    <title>Celebrate our 2nd Anniversary - The Fashion Bash is on NOW</title>
+    <author>
+      <name>Harmeet Kalra</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div><img src="//cdn.shopify.com/s/files/1/0274/8363/files/ABSSALE2_large.jpg?8885033796461684273" alt="Fashion Bash" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div></div>
+<div>
+<p> <span><em><strong>Disclaimer: We don't really put a sale of such epic proportions, but this time we just couldn't resist</strong></em></span></p>
+<p> This sale is now over. Check back next year for more fragrantic deals!</p>
+</div>]]>
+    </content>
+  </entry>
+</feed>

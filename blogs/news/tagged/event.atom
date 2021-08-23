@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/blogs/news/tagged/event.atom"/>
+  <title>Fragrancebuy.ca - What&apos;s New at Fragrancebuy</title>
+  <updated>2020-11-21T20:26:41-05:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/blogs/news/bfcm2020</id>
+    <published>2020-11-21T20:26:41-05:00</published>
+    <updated>2020-11-23T17:06:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/blogs/news/bfcm2020"/>
+    <title>Black Friday / Cyber Monday 2020</title>
+    <author>
+      <name>Harmeet Kalra</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div style="text-align: center;"></div>
+<br>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><iframe width="485" height="249" src="https://w2.countingdownto.com/3330891" frameborder="0"></iframe></div>
+<div style="text-align: center;"> </div>
+<p style="text-align: center;"> </p>
+<blockquote>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>New Inventory Restock:</strong></span></p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">November 24th - November 26th </span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">November 30th</span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">(while supplies last)</span></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>'Eau Addict' Exclusive Sneak Preview + Early E-mail Access:</strong></span></p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">November 26th 2020, 8pm</span></strong></p>
+<p style="text-align: center;">  </p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Insider Club Early E-mail Access:</strong></span></p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">November 26th 2020, 9pm</span></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Sale Goes Live:</strong></span></p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">November 26th 2020, 9pm</span></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">It's going to be one epic fragrant celebration</span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">... while supplies last</span></strong></p>
+</blockquote>]]>
+    </content>
+  </entry>
+</feed>

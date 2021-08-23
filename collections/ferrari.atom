@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/ferrari.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2019-05-14T16:22:54-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2155280236606</id>
+    <published>2019-05-14T16:22:54-04:00</published>
+    <updated>2019-05-14T16:22:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariscuderiaracingred-man"/>
+    <title>Ferrari Scuderia Racing Red For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariracingred-man.jpg?v=1588266829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Scuderia Racing Red For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 29.95. This fragrance retails for 72.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2155280236606</id>
+      <title>Ferrari Scuderia Racing Red EDT M 125ml Boxed</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>FERSCURACREDM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1474698117182</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariuomo-man"/>
+    <title>Ferrari Uomo For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariuomo-man.jpg?v=1588266961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            25.00 - 39.95
+            <a href="https://fragrancebuy.ca/products/ferrariuomo-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Uomo For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 39.95. This fragrance retails for 72.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1474698117182</id>
+      <title>Tester - Ferrari Uomo M EDT 100ml Tester (no cap)</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>FERRUOMOM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1474698117182</id>
+      <title>Ferrari Uomo M 100ml Boxed</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>FERUOMOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1369413779518</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrarinoblefig-man"/>
+    <title>Ferrari Noble Fig For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrarinoblefig-man.jpg?v=1588266754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            29.95 - 33.75
+            <a href="https://fragrancebuy.ca/products/ferrarinoblefig-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Noble Fig For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 27.95. This fragrance retails for 72.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1369413779518</id>
+      <title>Tester - Ferrari Noble Fig M 100ml Tester</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>FERNOFIGM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1369413779518</id>
+      <title>Ferrari Noble Fig EDT M 100ml Boxed</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>FERNOBFIGM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/648456208446</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariradiantbergamot-man"/>
+    <title>Ferrari Radiant Bergamot For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariradiantbergamot-man.jpg?v=1588266855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            27.95 - 34.89
+            <a href="https://fragrancebuy.ca/products/ferrariradiantbergamot-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Radiant Bergamot For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 27.95. This fragrance retails for 146.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/648456208446</id>
+      <title>Tester - Ferrari Radiant Bergamot M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>FERRADBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/648456208446</id>
+      <title>Ferrari Radiant Bergamot M 100ml Boxed (No Cello)</title>
+      <s:price currency="CAD">34.89</s:price>
+      <s:sku>FERRBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/648455880766</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferraripurelavender-woman"/>
+    <title>Ferrari Pure Lavender For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferraripurelavender-man.jpg?v=1588266777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            29.95 - 39.95
+            <a href="https://fragrancebuy.ca/products/ferraripurelavender-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Pure Lavender For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 25.00. This fragrance retails for 146.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/648455880766</id>
+      <title>Tester - Ferrari Pure Lavender M 100ml Tester (No Cap)</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>FERPURLAM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/648455880766</id>
+      <title>Ferrari Pure Lavender M 100ml Boxed</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>FERPLM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/648455749694</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferraribrightneroli-man"/>
+    <title>Ferrari Bright Neroli For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferraribrightfinal-man.jpg?v=1588092221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            29.95 - 31.95
+            <a href="https://fragrancebuy.ca/products/ferraribrightneroli-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Bright Neroli For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 25.00. This fragrance retails for 146.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/648455749694</id>
+      <title>Tester - Ferrari Bright Neroli M 100ml Tester</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>FERBRNERM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/648455749694</id>
+      <title>Ferrari Bright Neroli M 100ml Boxed</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>FERRBNM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/11395661007</id>
+    <published>2015-03-07T11:56:00-05:00</published>
+    <updated>2015-03-07T11:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariportablecharger"/>
+    <title>Ferrari Portable Battery Charger</title>
+    <s:type>Cosmetics</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferraricarcharger-man.jpg?v=1588103584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Cosmetics<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Best price in Canada for the Ferrari Fragrances Portable Batter Charger 2000 mAh | Fragrancebuy, the revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>health</s:tag>
+    <s:tag>Joici</s:tag>
+    <s:tag>Makeup</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens fragrance</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newsetmay</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>setishere</s:tag>
+    <s:tag>spiker</s:tag>
+    <s:tag>xmasset</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11395661007</id>
+      <title>Ferrari Official 2000mAh Fast Mobile Battery Charger</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>FERCCM-2000B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/129637580815</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariscuderia-man"/>
+    <title>Ferrari Scuderia Classic For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariscuderiared-man.jpg?v=1588266933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            13.95 - 19.99
+            <a href="https://fragrancebuy.ca/products/ferrariscuderia-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Scuderia Classic For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 13.95. This fragrance retails for 52.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/129637580815</id>
+      <title>Ferrari Scuderia Classic M 40ml Boxed</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>FERSCUDM-40B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/129637580815</id>
+      <title>Ferrari Scuderia Classic M 125ml Boxed</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>FERSCUDERIAM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/69131436047</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariscuderiaforte-man"/>
+    <title>Ferrari Scuderia Forte For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariforte-man.jpg?v=1588265341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            25.00 - 33.89
+            <a href="https://fragrancebuy.ca/products/ferrariscuderiaforte-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Scuderia Forte For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 21.95. This fragrance retails for 89.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/69131436047</id>
+      <title>Tester - Ferrari Scuderia Forte M 125ml Tester</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>FERSCUDFORTM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/69131436047</id>
+      <title>Ferrari Scuderia Forte M 125ml Boxed</title>
+      <s:price currency="CAD">33.89</s:price>
+      <s:sku>FERRSFRM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/10256358671</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariamberessence-man"/>
+    <title>Ferrari Amber Essence For Man</title>
+    <s:type>Tester</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariamberessence-man_9cedaa23-ddf4-4209-bc77-d57a21cabbf3.jpg?v=1588265066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Tester<br>
+        <strong>Price: </strong>
+            37.95 - 51.95
+            <a href="https://fragrancebuy.ca/products/ferrariamberessence-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Amber Essence For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 52.95. This fragrance retails for 146.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/10256358671</id>
+      <title>Ferrari Amber Essence EDP M 100ml Boxed</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>FERAMBEM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/10256358671</id>
+      <title>Tester - Ferrari Amber Essence EDP M 100ml Tester</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>FERAMBSESM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/9574948559</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrarimaninred-man"/>
+    <title>Ferrari Man in Red For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrarimaninred-man_540ffc7a-cc55-497b-ab46-e65e0621a694.jpg?v=1588266726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Man in Red For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 35.00. This fragrance retails for 92.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/9574948559</id>
+      <title>Ferrari Man in Red M 100ml Boxed</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>FERMANIRMM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5045864132</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrarivetiveressence-man"/>
+    <title>Ferrari Vetiver Essence For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrarivetiveressence-man_1411c170-0282-4f64-80ee-c51b8ae8d2e5.jpg?v=1588266983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            19.00 - 33.95
+            <a href="https://fragrancebuy.ca/products/ferrarivetiveressence-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Vetiver Essence For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 19.00. This fragrance retails for 75.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045864132</id>
+      <title>Ferrari Vetiver Essence EDP M 50ml Boxed</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>FERRVETESSM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045864132</id>
+      <title>Ferrari Vetiver Essence EDP M 100ml Boxed</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>FERVETIVESW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045864132</id>
+      <title>Tester - Ferrari Vetiver Essence EDP M 100ml Tester</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>FERVETESM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5045853892</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariessence-oud"/>
+    <title>Ferrari Essence Oud For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariessenceoud-man_686edd9d-7831-4f7e-9f0a-78128fb89548.jpg?v=1588265311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Ferrari Cedar Essence For Man | Fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045853892</id>
+      <title>Ferrari Essence Oud EDP M 100ml Boxed (No Cello)</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>FERESOUDM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045853892</id>
+      <title>Tester - Ferrari Essence Oud M 100ml Unboxed (with cap)</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>FERESOUDM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5045848900</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferraricedaressence-man"/>
+    <title>Ferrari Cedar Essence For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferraricedaressence-man_30fadaad-28d5-4aaa-bebb-090101594ffe.jpg?v=1588265236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            42.99 - 47.95
+            <a href="https://fragrancebuy.ca/products/ferraricedaressence-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Cedar Essence For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 47.49. This fragrance retails for 120.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045848900</id>
+      <title>Ferrari Cedar Essence EDP M 100ml Boxed</title>
+      <s:price currency="CAD">47.49</s:price>
+      <s:sku>FERCEDESM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045848900</id>
+      <title>Tester - Ferrari Cedar Essence EDP M 100ml Tester</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>FERCEDESSM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045848900</id>
+      <title>Ferrari Cedar Essence EDP M 100ml Boxed (Slight Leak at Collar)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>FERCEDESM-100G</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5045844420</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariessencemusk-man"/>
+    <title>Ferrari Essence Musk For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariessencemusk-man_d6503622-dd54-4b3e-9c0b-7c702898f936.jpg?v=1588265270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            29.00 - 37.45
+            <a href="https://fragrancebuy.ca/products/ferrariessencemusk-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Essence Musk For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 37.95. This fragrance retails for 146.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045844420</id>
+      <title>Ferrari Essence Musk EDP M 100ml Boxed</title>
+      <s:price currency="CAD">37.45</s:price>
+      <s:sku>FERESSSMM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045844420</id>
+      <title>Tester - Ferrari Essence Musk EDP M 100ml Tester</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku>FERESSMM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5045839876</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrarileatheressence-man"/>
+    <title>Ferrari Leather Essence For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrarileather-man.jpg?v=1588266671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            39.95 - 69.00
+            <a href="https://fragrancebuy.ca/products/ferrarileatheressence-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Ferrari Leather Essence For Man | Fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045839876</id>
+      <title>Tester - Ferrari Leather Essence EDP M 100ml Tester</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>FERLEATESM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5045839876</id>
+      <title>Ferrari Leather Essence EDP M 100ml Boxed</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku>FERLEATEM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/353199809</id>
+    <published>2014-08-04T18:49:00-04:00</published>
+    <updated>2014-08-04T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrari1-man"/>
+    <title>Ferrari &quot;1&quot; Signature Cologne</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrari1-man.jpg?v=1426362646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Ferrari 1 Signature Cologne For Man | fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/353199809</id>
+      <title>Ferrari &quot;1&quot; M 100ml Boxed</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>FER1M-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/343821357</id>
+    <published>2014-07-13T14:58:20-04:00</published>
+    <updated>2014-07-13T14:58:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariminiature-man"/>
+    <title>Ferrari Miniature Gift Pack</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariminiset-man_9db73ea7-57a9-491b-8c5e-ca97dfdba998.jpg?v=1426362646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Ferrari Miniature Gift Set Mens Cologne | fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>gift set</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>miniature</s:tag>
+    <s:tag>newsetmay</s:tag>
+    <s:tag>setishere</s:tag>
+    <s:tag>setpresent</s:tag>
+    <s:tag>xmasset</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/343821357</id>
+      <title>Miniature Set - Ferrari 4pc Mini 5ml Bottles</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>FERMM-15S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162844865</id>
+    <published>2013-10-06T13:34:00-04:00</published>
+    <updated>2013-10-06T13:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariracing-man"/>
+    <title>Ferrari Racing For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariracing-man_c23da8e1-41de-4f0b-a922-8662c7b0928a.jpg?v=1601740937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            21.00 - 43.00
+            <a href="https://fragrancebuy.ca/products/ferrariracing-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Racing For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 22.00. This fragrance retails for 56.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>racing</s:tag>
+    <s:tag>rare</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844865</id>
+      <title>Ferrari Racing M 50Ml Boxed</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>FERRM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844865</id>
+      <title>Ferrari Racing M 100ml Boxed</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>FERRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844865</id>
+      <title>Ferrari Racing M 50ml Damaged Box</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>FERACMDM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162844863</id>
+    <published>2013-10-06T13:34:00-04:00</published>
+    <updated>2013-10-06T13:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrarired-man"/>
+    <title>Ferrari Scuderia Red For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrarired-man.jpg?v=1588266894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            15.00 - 25.00
+            <a href="https://fragrancebuy.ca/products/ferrarired-man">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Scuderia Red For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 14.96. This fragrance retails for 72.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>itsajumbo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>setishere</s:tag>
+    <s:tag>setpresent</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844863</id>
+      <title>Tester - Ferrari Red M 125ml Tester (no cap)</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>FERRM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844863</id>
+      <title>Ferrari Red M 75ml Boxed</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>FERRM-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844863</id>
+      <title>Ferrari Red M 125Ml Boxed</title>
+      <s:price currency="CAD">22.46</s:price>
+      <s:sku>FERRM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844863</id>
+      <title>Set - Ferrari Red M 75ml Set (w/ pouch)</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>FERRM-75S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844863</id>
+      <title>Ferrari Red M 40ml Boxed</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>FERRM-40B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162844859</id>
+    <published>2013-10-06T13:34:00-04:00</published>
+    <updated>2013-10-06T13:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/ferrariblack-man"/>
+    <title>Ferrari Scuderia Black For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Ferrari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/ferrariblack-man_8f2d8b5b-88b0-4a31-a32a-490cfe180751.jpg?v=1588265165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrari<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            12.23 - 35.00
+            <a href="https://fragrancebuy.ca/products/ferrariblack-man">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Ferrari produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Ferrari perfumes like </span><span style="color: rgb(99, 115, 129);">Ferrari Scuderia Black For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 17.95. This fragrance retails for 52.00 meaning you save even more and get the best possible deal. Get the best price on the newest Ferrari perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>ferrari</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>itsajumbo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844859</id>
+      <title>Ferrari Black M 75ml Boxed</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>FERBM-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844859</id>
+      <title>Ferrari Black M 125Ml Boxed</title>
+      <s:price currency="CAD">22.46</s:price>
+      <s:sku>FERBM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844859</id>
+      <title>Set - Ferrari Black M 125ml Set</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>FERBM-125S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844859</id>
+      <title>Tester - Ferrari Black Man 125ml Tester (no cap)</title>
+      <s:price currency="CAD">15.45</s:price>
+      <s:sku>FERBM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844859</id>
+      <title>75% Full Tester - Ferrari Black Man 125ml Tester (no cap)</title>
+      <s:price currency="CAD">12.23</s:price>
+      <s:sku>FERBM-125G</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

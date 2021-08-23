@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/kokeshi.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-03-05T16:15:47-05:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6542302085182</id>
+    <published>2021-03-05T16:15:47-05:00</published>
+    <updated>2021-03-05T16:15:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/kokeshitonka-woman"/>
+    <title>Kokeshi Tonka For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Kokeshi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/kokeshiTonka-man.jpg?v=1615410609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kokeshi<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Kokeshi produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Kokeshi</span><span> perfumes like Kokeshi Tonka </span><span>For women, with prices starting as low as $30.</span><span> This fragrance retails for $72.00</span><span> meaning you save even more and get the best possible deal. Get the best price on the newest Kokeshi</span><span> perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6542302085182</id>
+      <title>Tester - Kokeshi Tonka W 50ml Tester (no cap)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>KOKTONW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6542301331518</id>
+    <published>2021-03-05T16:12:25-05:00</published>
+    <updated>2021-03-05T16:12:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/kokeshilotus-woman"/>
+    <title>Kokeshi Lotus For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Kokeshi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/kokeshiLotus-woman.jpg?v=1615410571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kokeshi<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Kokeshi produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Kokeshi</span><span> perfumes like Lotus </span><span>For women, with prices starting as low as $30.</span><span> This fragrance retails for $72.00</span><span> meaning you save even more and get the best possible deal. Get the best price on the newest Kokeshi</span><span> perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6542301331518</id>
+      <title>Tester - Kokeshi Lotus W 50ml Tester (no cap)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>KOKLOTW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

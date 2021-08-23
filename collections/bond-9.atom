@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/bond-9.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-07-11T17:27:34-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590852071486</id>
+    <published>2021-07-11T17:27:34-04:00</published>
+    <updated>2021-07-11T17:27:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9shelterisland-man"/>
+    <title>Bond #9 Shelter Island For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_2c214cdc-d3b7-459f-8c2e-38e61c393211.jpg?v=1622226494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Shelter Island </span><span>For Man/Woman,</span><span> with prices starting as low as $126.50. This fragrance retails for $267 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590852071486</id>
+      <title>Bond #9 Shelter Island M 50ml Boxed</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku>BOND9SLTRISLNDM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590862393406</id>
+    <published>2021-07-11T17:25:58-04:00</published>
+    <updated>2021-07-11T17:25:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9mynewyork-man"/>
+    <title>Bond #9 My New York For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_a688716c-bc7e-4737-ba83-d7b3ef89a77c.jpg?v=1622229578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            149.00 - 229.00
+            <a href="https://fragrancebuy.ca/products/bond9mynewyork-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like My New York </span><span>For Man/Woman,</span><span> with prices starting as low as $235.76. This fragrance retails for $496 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590862393406</id>
+      <title>Bond #9 My New York M 100ml Boxed</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>BOND9MYNYM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590862393406</id>
+      <title>Tester - Bond #9 My New York M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku>BOND9MYNYM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590854758462</id>
+    <published>2021-07-11T17:25:30-04:00</published>
+    <updated>2021-07-11T17:25:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9libertyisland-man"/>
+    <title>Bond #9 Liberty Island For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_ee0f4d34-9cbf-4d10-a9f9-f832a6abf004.jpg?v=1622227320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Liberty Island </span><span>For Man/Woman,</span><span> with prices starting as low as 126.50. This fragrance retails for $266 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590854758462</id>
+      <title>Bond #9 Liberty Island M 50ml Boxed</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>BOND9LBRTILNDM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590821662782</id>
+    <published>2021-07-11T17:25:15-04:00</published>
+    <updated>2021-07-11T17:25:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9centralparkwest-man"/>
+    <title>Bond #9 Central Park West For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_3c4b9854-4f4d-40d0-8935-f5fa1c4aa898.jpg?v=1622218625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            119.00 - 139.00
+            <a href="https://fragrancebuy.ca/products/bond9centralparkwest-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Central Park West </span><span>For Man/Woman,</span><span> with prices starting as low as $143.76. This fragrance retails for $303 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590821662782</id>
+      <title>Tester - Bond #9 Central Park West M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku>BOND9CPWM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590821662782</id>
+      <title>Bond #9 Central Park West M 50ml Boxed</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku>BOND9CENPRKWSTM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590815109182</id>
+    <published>2021-07-11T17:25:07-04:00</published>
+    <updated>2021-07-11T17:25:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9lexingtonavenue-man"/>
+    <title>Bond #9 Lexington Avenue For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_20b4fe25-4ce4-4c2a-b6a1-b981652aa6c3.jpg?v=1622216591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Lexington Avenue </span><span>For Man/Woman,</span><span> with prices starting as low as $184. This fragrance retails for $387 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>spo</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590815109182</id>
+      <title>Bond #9 Lexington Avenue M 100ml Boxed</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>BOND9LEXAVEM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590871666750</id>
+    <published>2021-05-28T15:54:22-04:00</published>
+    <updated>2021-05-28T15:54:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9queens-man"/>
+    <title>Bond #9 Queens For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9Queens-man.jpg?v=1624037165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Queens </span><span>For Man/Woman,</span><span> with prices starting as low as $80. This fragrance retails for $423 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590871666750</id>
+      <title>Tester - Bond #9 Queens W 100ml Tester (no cap)</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku>BOND9QENW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590860296254</id>
+    <published>2021-05-28T15:10:39-04:00</published>
+    <updated>2021-05-28T15:10:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9tribeca-man"/>
+    <title>Bond #9 Tribeca For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_fe7830af-4884-4f9f-8e2c-cbbf8aaacbb0.jpg?v=1622229040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            149.00 - 229.00
+            <a href="https://fragrancebuy.ca/products/bond9tribeca-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Tribeca </span><span>For Man/Woman,</span><span> with prices starting as low as $232.88. This fragrance retails for $490 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590860296254</id>
+      <title>Bond #9 Tribeca M 100ml Boxed</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>BOND9TBCAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590860296254</id>
+      <title>Tester - Bond#9 Tribeca M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku>BOND9TRBCAM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590859182142</id>
+    <published>2021-05-28T15:05:04-04:00</published>
+    <updated>2021-05-28T15:05:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9dubaiplatinum-man"/>
+    <title>Bond #9 Dubai Platinum For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9DubaiPlatinum-man.jpg?v=1624036898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            149.00 - 249.00
+            <a href="https://fragrancebuy.ca/products/bond9dubaiplatinum-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Dubai Platinum </span><span>For Man/Woman,</span><span> with prices starting as low as $316.26. This fragrance retails for $665 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590859182142</id>
+      <title>Bond #9 Dubai Platinum M 100ml Boxed</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>BOND9DBPLTNMM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590859182142</id>
+      <title>Tester - Bond #9 Dubai Platinum M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku>BOND9DPLTM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590857052222</id>
+    <published>2021-05-28T14:52:08-04:00</published>
+    <updated>2021-05-28T14:52:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9dubaiblacksapphire-man"/>
+    <title>Bond #9 Dubai Black Sapphire For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9DubaiBlackSapphire-man.jpg?v=1624036827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            199.00 - 261.95
+            <a href="https://fragrancebuy.ca/products/bond9dubaiblacksapphire-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Dubai Black Sapphire </span><span>For Man/Woman,</span><span> with prices starting as low as $316.26. This fragrance retails for $665 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>edp</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590857052222</id>
+      <title>Bond #9 Dubai Black Sapphire M 100ml Boxed</title>
+      <s:price currency="CAD">261.95</s:price>
+      <s:sku>BOND9DBBCKSPHRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590857052222</id>
+      <title>Tester - Bond #9 Dubai Black Sapphire M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>BOND9DBSPHRM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590853349438</id>
+    <published>2021-05-28T14:34:39-04:00</published>
+    <updated>2021-05-28T14:34:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9dubaicitrine-man"/>
+    <title>Bond #9 Dubai Citrine For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9DubaiCitrine-man.jpg?v=1624036864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            199.00 - 261.95
+            <a href="https://fragrancebuy.ca/products/bond9dubaicitrine-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Dubai Citrine </span><span>For Man/Woman,</span><span> with prices starting as low as $316.26. This fragrance retails for $665 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590853349438</id>
+      <title>Bond #9 Dubai Citrine M 100ml Boxed</title>
+      <s:price currency="CAD">261.95</s:price>
+      <s:sku>BOND9DBCITRNM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590853349438</id>
+      <title>Tester - Bond #9 Dubai Citrine M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>BOND9DCM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590850924606</id>
+    <published>2021-05-28T14:22:32-04:00</published>
+    <updated>2021-05-28T14:22:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9newyorkpatchouli-man"/>
+    <title>Bond #9 New York Patchouli For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9NewYorkPatchouli-man.jpg?v=1624037050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like New York Patchouli </span><span>For Man/Woman,</span><span> with prices starting as low as 169.62. This fragrance retails for $357 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590850924606</id>
+      <title>Bond #9 New York Patchouli M 50ml Boxed</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku>BOND9NYPACHLIM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590849974334</id>
+    <published>2021-05-28T14:16:47-04:00</published>
+    <updated>2021-05-28T14:16:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9newyorkmusk-man"/>
+    <title>Bond #9 New York Musk For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9NewYorkMusk-man.jpg?v=1624037019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like New York Musk </span><span>For Man/Woman,</span><span> with prices starting as low as $169.62. This fragrance retails for $356 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590849974334</id>
+      <title>Bond #9 New York Musk M 50ml Boxed</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku>BOND9NYMSKM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590848270398</id>
+    <published>2021-05-28T14:05:40-04:00</published>
+    <updated>2021-05-28T14:05:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9sagharbor-man"/>
+    <title>Bond #9 Sag Harbor For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9SagHarbor-man.jpg?v=1624555503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            125.00 - 129.00
+            <a href="https://fragrancebuy.ca/products/bond9sagharbor-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Sag Harbor </span><span>For Man/Woman,</span><span> with prices starting as low as $126.50. This fragrance retails for $266 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590848270398</id>
+      <title>Bond #9 Sag Harbor M 50ml Boxed</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>BOND9SGHRBRM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590848270398</id>
+      <title>Tester - Bond #9 Sag Harbor M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku>BOND9SGHRBRM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590837719102</id>
+    <published>2021-05-28T13:26:27-04:00</published>
+    <updated>2021-05-28T13:26:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9suttonplace-man"/>
+    <title>Bond #9 Sutton Place For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9SuttonPlace-man.jpg?v=1624037196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Sutton Place </span><span>For Man/Woman,</span><span> with prices starting as low as $224.26. This fragrance retails for $471 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590837719102</id>
+      <title>Bond #9 Sutton Place M 100ml Boxed</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>BOND9SUTNPLCM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590836441150</id>
+    <published>2021-05-28T13:19:06-04:00</published>
+    <updated>2021-05-28T13:19:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9brooklyn-man"/>
+    <title>Bond #9 Brooklyn For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9Brooklyn-man.jpg?v=1624036725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Brooklyn </span><span>For Man/Woman,</span><span> with prices starting as low as $123.62. This fragrance retails for $260 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590836441150</id>
+      <title>Bond #9 Brooklyn M 50ml Boxed</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>BOND9BRKLYNM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590832607294</id>
+    <published>2021-05-28T12:59:32-04:00</published>
+    <updated>2021-05-28T12:59:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9goldcoast-woman"/>
+    <title>Bond #9 Gold Coast For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9GoldCoast-woman.jpg?v=1624036934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            149.00 - 209.00
+            <a href="https://fragrancebuy.ca/products/bond9goldcoast-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Gold Coast </span><span>For Woman,</span><span> with prices starting as low as $235.76. This fragrance retails for $495 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590832607294</id>
+      <title>Bond #9 Gold Coast W 100ml Boxed</title>
+      <s:price currency="CAD">209.00</s:price>
+      <s:sku>BOND9GLDCSTW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590832607294</id>
+      <title>Tester - Bond #9 Gold Coast W 100ml Tester (no cap)</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku>BOND9GLDCSTW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590825496638</id>
+    <published>2021-05-28T12:32:49-04:00</published>
+    <updated>2021-05-28T12:32:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9nolita-woman"/>
+    <title>Bond #9 Nolita For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9Nolita-woman.jpg?v=1624037081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            159.00 - 199.00
+            <a href="https://fragrancebuy.ca/products/bond9nolita-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Nolita </span><span>For Woman,</span><span> with prices starting as low as $212.76. This fragrance retails for $447 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590825496638</id>
+      <title>Bond #9 Nolita W 100ml Boxed</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>BOND9NOLTAW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590825496638</id>
+      <title>Tester - Bond # 9 Nolita W 100ml Tester (no cap)</title>
+      <s:price currency="CAD">159.00</s:price>
+      <s:sku>BOND9NLTAW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590823825470</id>
+    <published>2021-05-28T12:24:13-04:00</published>
+    <updated>2021-05-28T12:24:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9parkavenuesouth-woman"/>
+    <title>Bond #9 Park Avenue South For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9ParkAvenueSouth-woman.jpg?v=1624037129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Park Avenue South </span><span>For Woman,</span><span> with prices starting as low as $132.26. This fragrance retails for $278 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590823825470</id>
+      <title>Bond #9 Park Avenue South W 50ml Boxed</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku>BOND9PRKAVSW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6590820089918</id>
+    <published>2021-05-28T12:06:47-04:00</published>
+    <updated>2021-05-28T12:06:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9madisonsquarepark-woman"/>
+    <title>Bond #9 Madison Square Park For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/Bond9MadisonSquarePark-woman.jpg?v=1624036979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            129.97 - 199.00
+            <a href="https://fragrancebuy.ca/products/bond9madisonsquarepark-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like Madison Square Park </span><span>For Woman,</span><span> with prices starting as low as $212.76. This fragrance retails for $447 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590820089918</id>
+      <title>Bond #9 Madison Square Park W 50ml Boxed</title>
+      <s:price currency="CAD">129.97</s:price>
+      <s:sku>BOND9MASSQPRKW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6590820089918</id>
+      <title>Bond #9 Madison Square Park W 100ml Boxed</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>BOND9MDSNSQRPRKW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/458943828</id>
+    <published>2020-06-13T12:43:31-04:00</published>
+    <updated>2020-06-13T12:43:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9highline-woman"/>
+    <title>Bond # 9 High Line For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bond9highline-woman_b139c92f-7392-4607-88d1-9e91b4d560e9.jpg?v=1588088986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            119.00 - 199.00
+            <a href="https://fragrancebuy.ca/products/bond9highline-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like </span><span style="color: rgb(99, 115, 129);">Bond # 9 High Line For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 199.00. This fragrance retails for 250.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Bond #9</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/458943828</id>
+      <title>Bond # 9 Highline EDP W 50ml Boxed</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku>BON9HLW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/458943828</id>
+      <title>Bond # 9 Highline W 100ml Boxed</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>BON9HLW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/458943828</id>
+      <title>Tester - Bond # 9 Highline W 100ml Tester (no cap)</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku>BOND9HLW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4552874983486</id>
+    <published>2020-05-28T16:34:46-04:00</published>
+    <updated>2020-05-28T16:34:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9dubaijade-man"/>
+    <title>Bond # 9 Dubai Jade For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bondNo9DubaiNYC-man.jpg?v=1599844151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like </span><span style="color: rgb(99, 115, 129);">Bond # 9 Dubai Jade For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 299.00. This fragrance retails for 531.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4552874983486</id>
+      <title>Bond # 9 Dubai Jade EDP M 100ml Boxed</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>BONDUJM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4439121592382</id>
+    <published>2020-02-07T16:29:38-05:00</published>
+    <updated>2020-02-07T16:29:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9washingtonsquare-man"/>
+    <title>Bond # 9 Washington Square For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bondno9washingtonsquare-man.jpg?v=1588089301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Bond # 9 Washington Square Man and Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4439121592382</id>
+      <title>Bond # 9 Washington Square EDP M 50ml Boxed</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku>BON9WASSQUM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4404693368894</id>
+    <published>2019-12-18T12:13:13-05:00</published>
+    <updated>2019-12-18T12:13:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9greenwichvillage-man"/>
+    <title>Bond # 9 Greenwich Village For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bondno9greenwichvillage-man.jpg?v=1588089247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            189.00 - 249.00
+            <a href="https://fragrancebuy.ca/products/bond9greenwichvillage-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Bond # 9 Greenwich Village  Man and Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4404693368894</id>
+      <title>Bond # 9 Greenwich Village EDP M 100ml Boxed</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>BONGRVM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4404693368894</id>
+      <title>Tester - Bond #9 Greenwich Village EDP M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku>BOND9GRWVM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4113071210558</id>
+    <published>2019-09-24T16:29:56-04:00</published>
+    <updated>2019-09-24T16:29:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9coneyisland-man"/>
+    <title>Bond # 9 Coney Island for Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bondconeyisland-man.jpg?v=1588089204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Bond # 9 Coney Island Man and Woman perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4113071210558</id>
+      <title>Bond # 9 Coney Island EDP M 100ml Boxed</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku>BOND9CONISLM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2279137214526</id>
+    <published>2019-07-25T17:20:37-04:00</published>
+    <updated>2019-07-25T17:20:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/bond9nycnewbondstreet-man"/>
+    <title>Bond #9 NYC New Bond Street For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Bond #9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/bondno9-man.jpg?v=1588089274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond #9<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            159.00 - 199.00
+            <a href="https://fragrancebuy.ca/products/bond9nycnewbondstreet-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Bond #9 produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Bond #9 perfumes like </span><span style="color: rgb(99, 115, 129);">Bond #9 NYC New Bond Street For Man/Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 209.95. This fragrance retails for 340.00 meaning you save even more and get the best possible deal. Get the best price on the newest Bond #9 perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2279137214526</id>
+      <title>Bond #9 NYC New Bond Street EDP M 100ml Boxed</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku>BONNEWBONDSTM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2279137214526</id>
+      <title>Tester - Bond #9 NYC New Bond St. EDP M 100ml Tester (no cap)</title>
+      <s:price currency="CAD">159.00</s:price>
+      <s:sku>BOND9NWBNDSTM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

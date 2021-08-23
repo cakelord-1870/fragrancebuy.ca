@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/michel-germain.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-05-15T11:16:29-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6583995957310</id>
+    <published>2021-05-15T11:16:29-04:00</published>
+    <updated>2021-05-15T11:16:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/michelgermaindeauvillechampagne-woman"/>
+    <title>Michel Germain Deauville Champagne For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/MichelGermainDeauvilleChampagne-woman.jpg?v=1621448391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            59.95 - 75.00
+            <a href="https://fragrancebuy.ca/products/michelgermaindeauvillechampagne-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like Deauville Champagne </span><span>For Woman,</span><span> with prices starting as low as $75. This fragrance retails for $90 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6583995957310</id>
+      <title>Deauville France Edition Champagne EDP W 75ml Boxed</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>MGDFREDCW-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6583995957310</id>
+      <title>Tester - Deauville Champagne Edition EDP W 75ml Tester</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>MGDCEW-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6583994449982</id>
+    <published>2021-05-15T11:08:29-04:00</published>
+    <updated>2021-05-15T11:08:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/michelgermaindeauvillechampagne-man"/>
+    <title>Michel Germain Deauville Champagne Edition For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/MichelGermainDeauvilleChampagne-man.jpg?v=1621448344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like Deauville Champagne Edition </span><span>For Man,</span><span> with prices starting as low as $75. This fragrance retails for $90 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6583994449982</id>
+      <title>Deauville Champagne Edition EDT M 75ml Boxed</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>DEAUCHAMM-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6583994449982</id>
+      <title>Tester - Deauville Champagne Edition EDT M 75ml Tester</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>DEAUCHAMPM-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4436803092542</id>
+    <published>2020-02-04T17:30:01-05:00</published>
+    <updated>2020-02-04T17:30:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualnoiredpintense-man"/>
+    <title>Michel Germain Sexual Noir EDP Intense Edition For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualnoiredpintenseman-man.jpg?v=1588867067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            57.95 - 79.95
+            <a href="https://fragrancebuy.ca/products/sexualnoiredpintense-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual Noir EDP Intense Edition For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 79.95. This fragrance retails for 122.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4436803092542</id>
+      <title>Sexual Noir EDP INTENSE M 125ml Boxed</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>SEXNOEDPINTM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4436803092542</id>
+      <title>Tester - Sexual Noir EDP INTENSE M 125ml Tester (no cap)</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>SNOIRINTM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4436802404414</id>
+    <published>2020-02-04T17:27:46-05:00</published>
+    <updated>2020-02-04T17:27:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualnoirintense-woman"/>
+    <title>Michel Germain Sexual Noir Intense Edition For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualnoirfemmeintenseedition-man.jpg?v=1588867045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual Noir Intense Edition For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 79.95. This fragrance retails for 127.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4436802404414</id>
+      <title>Sexual Noir EDP Intense W 125ml Boxed</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>SEXNOEDPINTW-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/449110732</id>
+    <published>2015-03-19T19:59:00-04:00</published>
+    <updated>2015-03-19T19:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/michelgermainverysexual-man"/>
+    <title>Michel Germain VERY Sexual For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/verysexual-man_db5fa0f0-394b-48fb-abe9-621d3838bed4.jpg?v=1549989450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            49.00 - 57.95
+            <a href="https://fragrancebuy.ca/products/michelgermainverysexual-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain VERY Sexual For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 57.95. This fragrance retails for 97.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>Michel Germain</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>very</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/449110732</id>
+      <title>Very Sexual by Michel Germain M 125ml Boxed</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>VERYSEXM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/449110732</id>
+      <title>Tester - Very Sexual by Michel Germain M 125ml Tester</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>VERSEXUALM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/314321457</id>
+    <published>2015-01-22T11:49:00-05:00</published>
+    <updated>2015-01-22T11:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualsecret-man"/>
+    <title>Michel Germain Sexual Secret For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualsecret-man_2195a125-8411-43b5-8a96-1758bf07c58d.jpg?v=1551289620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            36.95 - 51.95
+            <a href="https://fragrancebuy.ca/products/sexualsecret-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual Secret For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 55.00. This fragrance retails for 88.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>Michel Germain</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>secret</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/314321457</id>
+      <title>Sexual Secret Man 75ml Boxed</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>SEXSEM-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/314321457</id>
+      <title>Tester - Sexual Secret Man 75ml Tester</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>MICGESSM-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/370906884</id>
+    <published>2014-09-30T20:15:00-04:00</published>
+    <updated>2014-09-30T20:15:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/michelgermainsexualnoir-woman"/>
+    <title>Michel Germain Sexual Noir For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualnoirfemme-woman.jpg?v=1551373516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            45.00 - 59.95
+            <a href="https://fragrancebuy.ca/products/michelgermainsexualnoir-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual Noir For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 59.95. This fragrance retails for 92.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxed</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>noir</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>sexual</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370906884</id>
+      <title>Sexual Noir by Michel Germain W 125ml Boxed</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>SEXNW-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/370906884</id>
+      <title>Sexual Noir New W 75ml Tester (with cap)</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>SEXNOIRW-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/353256069</id>
+    <published>2014-08-04T20:59:00-04:00</published>
+    <updated>2014-08-04T20:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualstar-woman"/>
+    <title>Sexual Star by Michel Germain For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualstar-woman.jpg?v=1426362780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Sexual Star Michel Germain Woman Perfume | fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>sexual</s:tag>
+    <s:tag>star</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/353256069</id>
+      <title>Sexual Star by Michel Germain W 50ml Boxed</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SEXSTW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/3626698500</id>
+    <published>2014-08-04T20:42:00-04:00</published>
+    <updated>2014-08-04T20:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/deauville-man"/>
+    <title>Deauville by Michel Germain For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/michelgermaindeauville-man.jpg?v=1588626349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Deauville by Michel Germain For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 25.00. This fragrance retails for 48.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxed</s:tag>
+    <s:tag>deauville</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/3626698500</id>
+      <title>Deauville By Michel Germain M 75ml Boxed</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>DEAUVILM-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/353249973</id>
+    <published>2014-08-04T20:42:00-04:00</published>
+    <updated>2014-08-04T20:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/deauville-woman"/>
+    <title>Deauville by Michel Germain For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/deauvillemichelgermain-woman.jpg?v=1448219375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            19.00 - 22.00
+            <a href="https://fragrancebuy.ca/products/deauville-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Best price in Canada for Deauville Michel Germain Woman Perfume | Fragrancebuy, the revolution is here.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deauville</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:tag>xmasset</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/353249973</id>
+      <title>Set - Deauville By Michel Germain W 75ml Set</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>DEAUVILEW-75S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/353249973</id>
+      <title>Final Sale Vintage Tester - Deauville By Michel Germain W 75ml (No Cap)</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>DEAW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/342156225</id>
+    <published>2014-07-09T22:45:00-04:00</published>
+    <updated>2014-07-09T22:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/immaculate-woman"/>
+    <title>Immaculate For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/immaculatemichelgermaine-woman.jpg?v=1560372012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Immaculate For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 45.00. This fragrance retails for 48.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxed</s:tag>
+    <s:tag>Immaculate</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/342156225</id>
+      <title>Tester - Immaculate By Michel Germain W 50ml Boxed (no cap)</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>IMMW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/9654322767</id>
+    <published>2014-05-18T00:31:00-04:00</published>
+    <updated>2014-05-18T00:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/michelgermaintattoo-man"/>
+    <title>Michel Germain Tattoo For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/tatoo-man.jpg?v=1588865502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Michel Germain Tattoo Man Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cologne</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>Michel Germain</s:tag>
+    <s:tag>rare</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/9654322767</id>
+      <title>Michel Germain Tattoo M 100ml Boxed</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>TATTMBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/314321453</id>
+    <published>2014-05-18T00:31:00-04:00</published>
+    <updated>2014-05-18T00:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualfresh-man"/>
+    <title>Michel Germain Sexual Fresh For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualfresh-man.jpg?v=1551373800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            46.00 - 52.96
+            <a href="https://fragrancebuy.ca/products/sexualfresh-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual Fresh For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 48.00. This fragrance retails for 88.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cologne</s:tag>
+    <s:tag>fresh</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>Michel Germain</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/314321453</id>
+      <title>Michel Germain Sexual Fresh M 75ml Boxed</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>SEXFM-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/314321453</id>
+      <title>Sexual Fresh M 125ml Boxed</title>
+      <s:price currency="CAD">52.96</s:price>
+      <s:sku>SEXFREM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/314321453</id>
+      <title>Tester - Sexual Fresh M 125ml Unboxed (with cap)</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>SEXFRESHM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/314321453</id>
+      <title>Tester - Sexual Fresh M 75ml Tester</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SEXFM-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/92288614415</id>
+    <published>2014-03-21T14:43:00-04:00</published>
+    <updated>2014-03-21T14:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualparis-woman"/>
+    <title>Sexual Paris For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualparis-woman.jpg?v=1551373259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            45.00 - 79.95
+            <a href="https://fragrancebuy.ca/products/sexualparis-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Sexual Paris For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 59.95. This fragrance retails for 107.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canadaday</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>michel germaine</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Sexual</s:tag>
+    <s:tag>sugar</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/92288614415</id>
+      <title>Michel Germain Sexual Paris EDP W 125ml Boxed</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>SEXPARISNEW-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/92288614415</id>
+      <title>Tester - Michel Germain Sexual Paris EDP W 75ml Tester</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>SEXPARISW-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/92288614415</id>
+      <title>Set - Michel Germain Sexual Paris EDP W 125ml Gift Set</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>MGSPARISW-125S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/92285665295</id>
+    <published>2014-03-21T14:43:00-04:00</published>
+    <updated>2014-03-21T14:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualparistendre-woman"/>
+    <title>Sexual Paris Tendre Edition For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualparistendre-woman.jpg?v=1551373288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            46.95 - 57.00
+            <a href="https://fragrancebuy.ca/products/sexualparistendre-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Sexual Paris Tendre Edition For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 57.49. This fragrance retails for 107.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>michel germaine</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Sexual</s:tag>
+    <s:tag>sugar</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/92285665295</id>
+      <title>Michel Germain Sexual Paris Tendre EDP W 125ml Boxed</title>
+      <s:price currency="CAD">57.00</s:price>
+      <s:sku>SEXTENDSW-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/92285665295</id>
+      <title>Tester - Michel Germain Sexual Paris Tendre EDP W 75ml Tester (with cap)</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>SEXTENDDW-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/9654327567</id>
+    <published>2014-03-21T14:43:00-04:00</published>
+    <updated>2014-03-21T14:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/tattoomichelgermain-woman"/>
+    <title>Tattoo by Michel Germain For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/tattoo-woman.jpg?v=1588865481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Online warehouse sale. Guaranteed best price in Canada for Tattoo by Michel Germain Woman Perfume| fragrancebuy - Buy Direct and Save. The revolution is here.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canadaday</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>michel germaine</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Sexual</s:tag>
+    <s:tag>sugar</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/9654327567</id>
+      <title>Michel Germain Tattoo W 100ml Boxed</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>MICGERTATTW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/270278017</id>
+    <published>2014-03-21T14:43:00-04:00</published>
+    <updated>2014-03-21T14:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualsugar-woman"/>
+    <title>Sexual Sugar by Michel Germain For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualsugarmichelgermain-woman.jpg?v=1551289438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            45.00 - 75.00
+            <a href="https://fragrancebuy.ca/products/sexualsugar-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Sexual Sugar by Michel Germain For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 39.95. This fragrance retails for 102.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>michel germaine</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Sexual</s:tag>
+    <s:tag>sugar</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/270278017</id>
+      <title>Tester - Sexual Sugar by Michel Germain W 75ml Tester</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>SEXSUGW-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/270278017</id>
+      <title>Sexual Sugar W 125ml Boxed</title>
+      <s:price currency="CAD">59.45</s:price>
+      <s:sku>SEXSW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/270278017</id>
+      <title>Set - Sexual Sugar by Michel Germain W 125ml Gift Set (with Body Lotion &amp; ShowerGel)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>SEXSUGARNW-125S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/92281667599</id>
+    <published>2014-03-14T15:17:00-04:00</published>
+    <updated>2014-03-14T15:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualparistendre-man"/>
+    <title>Michel Germain Sexual Paris Tendre Edition For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualparistendre-man.jpg?v=1551373309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            46.95 - 56.95
+            <a href="https://fragrancebuy.ca/products/sexualparistendre-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual Paris Tendre Edition For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 57.95. This fragrance retails for 100.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>itsajumbo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>michel germain</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>noir</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>sexual</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/92281667599</id>
+      <title>Michel Germain Sexual Paris Tendre Homme 125ml Boxed</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>SEXTENDHM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/92281667599</id>
+      <title>Tester -  Michel Germain Sexual Paris Tendre Homme 125ml Tester (with cap)</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>SEXTHM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/11403812815</id>
+    <published>2014-03-14T15:17:00-04:00</published>
+    <updated>2014-03-14T15:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualparis-man"/>
+    <title>Michel Germain Sexual PARIS For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualparis-man.jpg?v=1588101391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            45.00 - 69.00
+            <a href="https://fragrancebuy.ca/products/sexualparis-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual PARIS For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 54.96. This fragrance retails for 97.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>itsajumbo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>michel germain</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>noir</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>sexual</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11403812815</id>
+      <title>Michel Germain Sexual Paris M 125ml Boxed</title>
+      <s:price currency="CAD">53.96</s:price>
+      <s:sku>SEXPM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11403812815</id>
+      <title>Tester - Michel Germain Sexual Paris M 125ml Tester (with cap)</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>SEXPM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11403812815</id>
+      <title>Set - Michel Germain Sexual Paris M 125ml Set (w/ Glass Bottle AfterShave &amp; Deodorant)</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku>SEXPARINEWM-125S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/265352389</id>
+    <published>2014-03-14T15:17:00-04:00</published>
+    <updated>2014-03-14T15:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/michelgermainsexualnoir-man"/>
+    <title>Michel Germain Sexual Noir For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualnoirmichelgermain-man.jpg?v=1551373460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            49.95 - 69.00
+            <a href="https://fragrancebuy.ca/products/michelgermainsexualnoir-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual Noir For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 56.95. This fragrance retails for 92.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>itsajumbo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>michel germain</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>noir</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>sexual</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/265352389</id>
+      <title>Sexual Noir by Michel Germain M 125ml Boxed</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>SEXNOIRM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/265352389</id>
+      <title>Tester - Sexual Noir by Michel Germain M 125ml Tester</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>SEXNOIRM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/265352389</id>
+      <title>Set - Sexual Noir New M 125ml Gift Set (w/ Glass Aftershave &amp; Deodorant)</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku>SEXNOIRNEWM-125S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/167435868</id>
+    <published>2013-10-24T14:45:00-04:00</published>
+    <updated>2013-10-24T14:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/michelgermainsexualnight-man"/>
+    <title>Michel Germain Sexual Night For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualnightmichelgermain-man.jpg?v=1551373558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            39.95 - 53.00
+            <a href="https://fragrancebuy.ca/products/michelgermainsexualnight-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual Night For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 39.95. This fragrance retails for 84.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>itsajumbo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>michel germain</s:tag>
+    <s:tag>night</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>sexual</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/167435868</id>
+      <title>Michel Germain Sexual Nights EDT M 75ml Boxed</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>SEXNIGHTM-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/167435868</id>
+      <title>Sexual Night M 125ml Boxed</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>SEXNM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/167435868</id>
+      <title>Tester - Sexual Night M 75ml Tester</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>SEXNIGHTM-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/504194072591</id>
+    <published>2013-10-06T13:36:00-04:00</published>
+    <updated>2013-10-06T13:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualfleur-woman"/>
+    <title>Michel Germain Sexual Fleur for Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualfleur-woman_6e4394c2-db9d-43d0-a1a7-7fb81f4a3bf1.jpg?v=1588867112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            45.00 - 49.95
+            <a href="https://fragrancebuy.ca/products/sexualfleur-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual Fleur for Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 55.00. This fragrance retails for 85.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>itsajumbo</s:tag>
+    <s:tag>michel germain</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>sexual</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/504194072591</id>
+      <title>Sexual Fleur EDP W 75ml Boxed</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>SEXFLEUREDW-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/504194072591</id>
+      <title>Tester - Sexual Fleur EDP W 75ml Tester</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>SEXFLEURW-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4459725252</id>
+    <published>2013-10-06T13:36:00-04:00</published>
+    <updated>2013-10-06T13:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualsteel-man"/>
+    <title>Michel Germain Sexual Steel For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualsteel-man.jpg?v=1551289540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            46.95 - 61.00
+            <a href="https://fragrancebuy.ca/products/sexualsteel-man">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Michel Germain produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Michel Germain perfumes like </span><span style="color: rgb(99, 115, 129);">Michel Germain Sexual Steel For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 46.95. This fragrance retails for 79.00 meaning you save even more and get the best possible deal. Get the best price on the newest Michel Germain perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>itsajumbo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens fragrance</s:tag>
+    <s:tag>michel germain</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>sexual</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4459725252</id>
+      <title>Michel Germain Sexual Steel Man 75ml Boxed</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>SEXSTEELM-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4459725252</id>
+      <title>Tester - Michel Germain Sexual Steel Man 75ml Tester</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SEXSTEELM-125T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4459725252</id>
+      <title>Michel Germain Sexual Steel Man 125ml Boxed</title>
+      <s:price currency="CAD">61.00</s:price>
+      <s:sku>SEXSTEELMANM-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1830302788</id>
+    <published>2013-10-06T13:36:00-04:00</published>
+    <updated>2013-10-06T13:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/sexualfresh-woman"/>
+    <title>Michel Germain Sexual Fresh for Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualfresh-woman.jpg?v=1551373779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Michel Germain Sexual Fresh Woman Perfume| fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>itsajumbo</s:tag>
+    <s:tag>michel germain</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>sexual</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1830302788</id>
+      <title>Tester - Sexual Fresh EDP W 75ml (with cap)</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>SEXFRESHW-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162846061</id>
+    <published>2013-10-06T13:36:00-04:00</published>
+    <updated>2013-10-06T13:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/michelgermainsexual-woman"/>
+    <title>Michel Germain Sexual (Red) For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/sexualmichelgermain-woman.jpg?v=1551373600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            41.95 - 55.00
+            <a href="https://fragrancebuy.ca/products/michelgermainsexual-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Michel Germain Sexual (Red) W 125Ml Spray Boxed Woman Perfume| fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>itsajumbo</s:tag>
+    <s:tag>michel germain</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>sexual</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162846061</id>
+      <title>Michel Germain Sexual W 75ml Boxed</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>SEXW-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162846061</id>
+      <title>Michel Germain Sexual W 125ml Boxed</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SEXW-125B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162846061</id>
+      <title>Tester -  Michel Germain Sexual W 75ml Spray Tester</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>SEXW-75T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

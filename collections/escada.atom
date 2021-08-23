@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/escada.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-04-12T12:52:09-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6570288119870</id>
+    <published>2021-04-12T12:52:09-04:00</published>
+    <updated>2021-04-12T12:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadajoyfulmoments-woman"/>
+    <title>Escada Joyful Moments For Woman</title>
+    <s:type>Tester</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EscadaJoyfulMoments-woman.jpg?v=1620248614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Tester<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like Joyful Moments </span><span>For Woman,</span><span> with prices starting as low as $15.95. This fragrance retails for $72 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6570288119870</id>
+      <title>Tester - Escada Joyful Moments EDP W 50ml Tester</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>ESCJOYFULW-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4422303645758</id>
+    <published>2020-01-14T10:33:31-05:00</published>
+    <updated>2020-01-14T10:33:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadaflordelsol-woman"/>
+    <title>Escada Flor Del Sol (2020) For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadaflordelsoulltd-woman.jpg?v=1591202574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            41.95 - 69.00
+            <a href="https://fragrancebuy.ca/products/escadaflordelsol-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Escada Flor Del Sol Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4422303645758</id>
+      <title>Escada Flor Del Sol EDT W 30ml Boxed</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>ESCFDSOLW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4422303645758</id>
+      <title>Escada Flor Del Sol EDT W 50ml Boxed</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>ESCFDSOLW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4422303645758</id>
+      <title>Escada Flor Del Sol EDT W 100ml Boxed</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku>ESCFDSW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4422303645758</id>
+      <title>Tester - Escada Flor Del Sol EDT W 100ml Tester</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>ESCFDSOLW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/2130431410238</id>
+    <published>2019-04-24T22:31:06-04:00</published>
+    <updated>2019-04-24T22:31:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadamiamiblossom-woman"/>
+    <title>Escada Miami Blossom For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadamiamiblossom-woman.jpg?v=1588256830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            35.00 - 45.00
+            <a href="https://fragrancebuy.ca/products/escadamiamiblossom-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like </span><span style="color: rgb(99, 115, 129);">Escada Miami Blossom For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 33.33. This fragrance retails for 87.00 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2130431410238</id>
+      <title>Tester -  Escada Miami Blossom EDT W 100ml Tester (no cap)</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>ESCMIABW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2130431410238</id>
+      <title>Escada Miami Blossom EDT W 30ml Boxed</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>ESCMIAMBW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2130431410238</id>
+      <title>Escada Miami Blossom EDT W 50ml Boxed</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>ESCMIAGBLW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/2130431410238</id>
+      <title>Escada Miami Blossom EDT W 100ml Boxed</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>ESCMBW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1359329460286</id>
+    <published>2018-04-19T17:22:08-04:00</published>
+    <updated>2018-04-19T17:22:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadasorbettorosso-woman"/>
+    <title>Escada Sorbetto Rosso For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadasorbettorosso-woman.jpg?v=1588256969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            43.95 - 65.00
+            <a href="https://fragrancebuy.ca/products/escadasorbettorosso-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Escada Sorbetto Rosso Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1359329460286</id>
+      <title>Escada Sorbetto Rosso W 50ml Boxed</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>ESCSORROW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1359329460286</id>
+      <title>Escada Sorbetto Rosso W 100ml Boxed</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>ESCSORROSW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1359329460286</id>
+      <title>Tester - Escada Sorbetto Rosso W 100ml Tester</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>ESCORBETRW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/3588531460</id>
+    <published>2015-11-12T01:19:00-05:00</published>
+    <updated>2015-11-12T01:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadasentiments-man"/>
+    <title>Escada Sentiment For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadasentiments-man_5ef7bced-b8d3-408b-88d8-8cc38d4bc76e.jpg?v=1588256874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            50.95 - 52.45
+            <a href="https://fragrancebuy.ca/products/escadasentiments-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like </span><span style="color: rgb(99, 115, 129);">Escada Sentiment For Man,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 53.49. This fragrance retails for 92.00 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>after shave</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada</s:tag>
+    <s:tag>Magnetism</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/3588531460</id>
+      <title>Escada Sentiment M 100ml Boxed</title>
+      <s:price currency="CAD">52.45</s:price>
+      <s:sku>ESCSENTM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/3588531460</id>
+      <title>Tester - Escada Sentiment  M 100ml Tester</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>ESCSENTM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/376013932</id>
+    <published>2015-11-12T00:22:00-05:00</published>
+    <updated>2015-11-12T00:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadasentiment-woman"/>
+    <title>Escada Sentiment For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadasentiments-woman_96152bae-5bf7-470d-be60-ef3e220d198b.jpg?v=1588256899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            51.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like </span><span style="color: rgb(99, 115, 129);">Escada Sentiment For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 57.95. This fragrance retails for 125.00 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>escada</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>perfume Woman Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>sentiment</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/376013932</id>
+      <title>Escada Sentiments W 75ml Boxed</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>ESCSENTEW-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/11404005711</id>
+    <published>2015-08-06T19:59:00-04:00</published>
+    <updated>2015-08-06T19:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadafiestacarioca-woman"/>
+    <title>Escada Fiesta Carioca For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadafiesta-woman.jpg?v=1588103776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            29.00 - 51.95
+            <a href="https://fragrancebuy.ca/products/escadafiestacarioca-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like </span><span style="color: rgb(99, 115, 129);">Escada Fiesta Carioca For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 29.95. This fragrance retails for 62.00 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>escada</s:tag>
+    <s:tag>in the air</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11404005711</id>
+      <title>Escada Fiesta Carioca W 30ml Boxed</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku>ESCFCW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11404005711</id>
+      <title>Escada Fiesta Carioca W 50ml Boxed</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>ESCFCW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11404005711</id>
+      <title>Escada Fiesta Carioca W 100ml Boxed</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>ESCFCW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11404005711</id>
+      <title>Tester - Escada Fiesta Carioca W 50ml Tester</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>ESCFCW-50T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6334598340</id>
+    <published>2015-08-06T19:59:00-04:00</published>
+    <updated>2015-08-06T19:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadamarinegroove-woman"/>
+    <title>Escada Marine Groove For Woman</title>
+    <s:type>Tester</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadamarinegroove-woman.jpg?v=1588256801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Tester<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like </span><span style="color: rgb(99, 115, 129);">Escada Marine Groove For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 55.00. This fragrance retails for 82.00 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>escada</s:tag>
+    <s:tag>in the air</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6334598340</id>
+      <title>Tester - Escada Marine Groove W 100ml Tester</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>ESCMGW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/162844783</id>
+    <published>2015-08-06T19:59:00-04:00</published>
+    <updated>2015-08-06T19:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadacherry-woman"/>
+    <title>Escada Cherry in the Air For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadacherryintheair-woman_2db8b4ed-dfd4-4d5d-b4a2-456b5e42bbab.jpg?v=1426362639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            55.00 - 109.00
+            <a href="https://fragrancebuy.ca/products/escadacherry-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Escada Cherry In The Air Ltd. Ed. Boxed Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>escada</s:tag>
+    <s:tag>in the air</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844783</id>
+      <title>Tester - Escada Cherry In The Air Ltd. Ed. W 100ml Tester</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>ESCCITNAW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844783</id>
+      <title>Escada Cherry In The Air Ltd. Ed. W 50ml Boxed</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>ESCCHERW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/162844783</id>
+      <title>Escada Cherry In The Air Ltd. Ed. W 100ml Boxed</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku>ESCCIAW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/5035159748</id>
+    <published>2015-06-27T22:36:00-04:00</published>
+    <updated>2015-06-27T22:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadaaguasol-woman"/>
+    <title>Escada Agua De Sol For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/esadaaguadesol-woman.jpg?v=1588256661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            23.95 - 45.00
+            <a href="https://fragrancebuy.ca/products/escadaaguasol-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like </span><span style="color: rgb(99, 115, 129);">Escada Agua De Sol For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 19.99. This fragrance retails for 58.00 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>sunset</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5035159748</id>
+      <title>Escada Agua De Sol W 30ml Boxed</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>ESCADSOLW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5035159748</id>
+      <title>Escada Agua De Sol EDT W 50ml Boxed</title>
+      <s:price currency="CAD">27.39</s:price>
+      <s:sku>ESCADSW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5035159748</id>
+      <title>Escada Agua De Sol EDT W 100ml Boxed</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>ESCADSW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/5035159748</id>
+      <title>Tester - Escada Agua De Sol EDT W 100ml Tester</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>ESCADSW-100t</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/352543301</id>
+    <published>2015-06-27T22:36:00-04:00</published>
+    <updated>2015-06-27T22:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadataj-woman"/>
+    <title>Escada Taj Sunset For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadatajsunset-woman_e5886020-96dd-4751-903b-b81bb9b8490a.jpg?v=1588257000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            31.95 - 59.95
+            <a href="https://fragrancebuy.ca/products/escadataj-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Best price in Canada for Escada Taj Sunset Woman Perfume | Fragrancebuy, the revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>sunset</s:tag>
+    <s:tag>taj</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/352543301</id>
+      <title>Escada Taj Sunset W 30ml Boxed</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>ESCTAJSUNW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/352543301</id>
+      <title>Escada Taj Sunset W 100ml Boxed</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>ESCTSHW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/352543301</id>
+      <title>Tester -  Escada Taj Sunset W 100ml Tester</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>ESCTSHW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/436377876</id>
+    <published>2015-02-28T12:57:00-05:00</published>
+    <updated>2015-02-28T12:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadaturquoisesummer-woman"/>
+    <title>Escada Turquoise Summer For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadaTurquoisesummerTester-man.jpg?v=1588257029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            46.95 - 57.95
+            <a href="https://fragrancebuy.ca/products/escadaturquoisesummer-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like </span><span style="color: rgb(99, 115, 129);">Escada Turquoise Summer For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 42.96. This fragrance retails for 82.00 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>escada</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>turqouise summer</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/436377876</id>
+      <title>Escada Turquoise Summer EDT W 50ml Boxed</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>ESCTURSW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/436377876</id>
+      <title>Tester - Escada Turquoise Summer  W 100ml Tester</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>ESCTURQSUMM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/436377876</id>
+      <title>Escada Turquoise Summer W 100ml Boxed</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>ESCTURSW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/355052161</id>
+    <published>2014-08-10T17:10:41-04:00</published>
+    <updated>2014-08-10T17:10:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadasunsetheat-man"/>
+    <title>Escada Sun Set Heat For Man</title>
+    <s:type>Boxed</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadasunsetheat-man.jpg?v=1426362641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Escada Sun Set Heat Man Cologne  |Fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/355052161</id>
+      <title>Escada Sun Set Heat M 100ml Boxed</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>ESCSSHM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/355052157</id>
+    <published>2014-08-10T17:10:00-04:00</published>
+    <updated>2014-08-10T17:10:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadasignature-woman"/>
+    <title>Escada Signature For Woman</title>
+    <s:type>Boxed</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadasignature-woman.jpg?v=1426362641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Escada Signature Woman Perfume |Fragrancebuy - Buy Direct and Save. The revolution is here</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/355052157</id>
+      <title>Tester - Escada Signature W 50ml Unboxed</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>ESCSIGNW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/343432937</id>
+    <published>2014-07-12T10:47:00-04:00</published>
+    <updated>2014-07-12T10:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadasports-woman"/>
+    <title>Escada Sports For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadasports-woman.jpg?v=1426362641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            25.00 - 35.00
+            <a href="https://fragrancebuy.ca/products/escadasports-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Online warehouse sale. Guaranteed best price in Canada for Ellen Tracy Classic W 100Ml Spray Boxed Woman Perfume| fragrancebuy - Buy Direct and Save. The revolution is here</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxed</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>escada</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/343432937</id>
+      <title>Escada Sports W 100ml Boxed</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>ESCSW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/343432937</id>
+      <title>Tester - Escada Sports W 100ml Unboxed</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ESCSDMW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/3603004740</id>
+    <published>2014-05-18T00:31:00-04:00</published>
+    <updated>2014-05-18T00:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadamargarethaleyvintagered-woman"/>
+    <title>Escada Margaretha Ley (Vintage) For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadamargarethaleyred-woman.jpg?v=1448508962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            113.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Escada Margaretha Ley Woman Perfume| Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxed</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada Margaretha Ley</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Que Viva</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/3603004740</id>
+      <title>Escada Margaretha Ley (Vintage) Red Box W 100ml Boxed</title>
+      <s:price currency="CAD">113.00</s:price>
+      <s:sku>ESCMARLEYW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/314321433</id>
+    <published>2014-05-18T00:31:00-04:00</published>
+    <updated>2014-05-18T00:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadasilverlight-man"/>
+    <title>Escada Silver Light For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadasilverlight-man.jpg?v=1426362641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Escada Silver Light | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cologne</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>SilverLight</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/314321433</id>
+      <title>Escada Silver Light M 40ml Boxed</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku>ESCSLM-40B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/314321361</id>
+    <published>2014-05-18T00:31:00-04:00</published>
+    <updated>2014-05-18T00:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/queviva-woman"/>
+    <title>Que Viva by Escada Margaretha Ley For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/queviva-woman.jpg?v=1426362762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Que Viva Escada Woman Perfume| Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxed</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada Margaretha Ley</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Que Viva</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/314321361</id>
+      <title>Que Viva by Escada Margaretha Ley W 50ml Boxed</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>QUEVW-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/307737129</id>
+    <published>2014-05-08T18:49:00-04:00</published>
+    <updated>2014-05-08T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadamoonsparkle-woman"/>
+    <title>Escada Moon Sparkle For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadamoonsparkle-woman.jpg?v=1428854010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Online warehouse sale. Guaranteed best price in Canada for Escada Moon Sparkle Woman Perfume| fragrancebuy - Buy Direct and Save. The revolution is here</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>discontinued</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada</s:tag>
+    <s:tag>fully reloaded</s:tag>
+    <s:tag>Moon Sparkle</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/307737129</id>
+      <title>Tester - Escada Moon Sparkle W 50ml Unboxed</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>ESCMSW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/3588111492</id>
+    <published>2014-04-04T15:17:00-04:00</published>
+    <updated>2014-04-04T15:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadaibizahippie-woman"/>
+    <title>Escada Ibiza Hippie (Vintage) For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadaibizahippy-woman.jpg?v=1448508960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            104.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Escada Ibiza Hippie Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxed</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada</s:tag>
+    <s:tag>ibiza</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/3588111492</id>
+      <title>Escada Ibiza Hippie  W 100ml Boxed</title>
+      <s:price currency="CAD">104.00</s:price>
+      <s:sku>ESCIBIHIW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/282426357</id>
+    <published>2014-04-04T15:17:00-04:00</published>
+    <updated>2014-04-04T15:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadasunnifrutti-woman"/>
+    <title>Escada Sunny Frutti (1998) For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadasunnifrutti-woman.jpg?v=1426362641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            25.00 - 58.00
+            <a href="https://fragrancebuy.ca/products/escadasunnifrutti-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Escada Sunny Frutti Woman Perfume| Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxed</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>Escada</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Sunny Frutti</s:tag>
+    <s:tag>t</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/282426357</id>
+      <title>Escada Sunny Frutti (1998) W 50ml Boxed</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>ESCSFW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/282426357</id>
+      <title>Escada Sunny Frutti (1998) W 100ml Boxed</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>ESCSFW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/282426357</id>
+      <title>Final Sale Vintage Tester - Escada Sunny Frutti (1998) W 50ml Unboxed</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SUNFDMW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/11900257231</id>
+    <published>2014-03-14T14:31:41-04:00</published>
+    <updated>2014-03-14T14:31:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadadesireme-woman"/>
+    <title>Escada Desire Me For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadadesireme-woman.jpg?v=1588256715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like </span><span style="color: rgb(99, 115, 129);">Escada Desire Me For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 37.95. This fragrance retails for 62.00 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>escada</s:tag>
+    <s:tag>incredible me</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/11900257231</id>
+      <title>Tester - Escada Desire Me EDP W 50ml Unboxed</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>ESCDESMEW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/265324981</id>
+    <published>2014-03-14T14:31:41-04:00</published>
+    <updated>2014-03-14T14:31:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadaincredibleme-woman"/>
+    <title>Escada Incredible Me For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadaincredibleme-woman_162f542d-1b11-4eb6-8293-ef740f200333.jpg?v=1601741569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like </span><span style="color: rgb(99, 115, 129);">Escada Incredible Me For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 55.00. This fragrance retails for 78.00 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canadaday</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>escada</s:tag>
+    <s:tag>incredible me</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/265324981</id>
+      <title>Escada Incredible Me W 75ml Boxed</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>ESCIMW-75B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6296969540</id>
+    <published>2014-03-14T14:31:00-04:00</published>
+    <updated>2014-03-14T14:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadaacte2-woman"/>
+    <title>Escada Acte 2 For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadaacte2-woman_42ddaed2-68d7-4b95-a026-8d3c7be5ffab.jpg?v=1588256689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            45.00 - 65.00
+            <a href="https://fragrancebuy.ca/products/escadaacte2-woman">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: rgb(250, 251, 252);">The house of Escada produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Escada perfumes like </span><span style="color: rgb(99, 115, 129);">Escada Acte 2 For Woman,</span><span style="background-color: rgb(250, 251, 252);"> with prices starting as low as 65.00. This fragrance retails for 92.00 meaning you save even more and get the best possible deal. Get the best price on the newest Escada perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bs2</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>escada</s:tag>
+    <s:tag>joyful</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6296969540</id>
+      <title>Escada Acte 2 EDP W 50ml Boxed</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>ESCACEE2W-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6296969540</id>
+      <title>Vintage Tester - Escada Act 2 Tester</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>ESCAW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6296969540</id>
+      <title>97% Full - Escada Acte 2 For Woman 50ml</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>ESCACEE2W-50G</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/4262288004</id>
+    <published>2014-03-14T14:31:00-04:00</published>
+    <updated>2014-03-14T14:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/escadasred-woman"/>
+    <title>Escada &quot;S&quot; For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/escadas-woman.jpg?v=1454689563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escada<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            45.00 - 75.00
+            <a href="https://fragrancebuy.ca/products/escadasred-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Online warehouse sale. Guaranteed best price in Canada for Escada S (Red Box) Woman Perfume | Fragrancebuy - Buy Direct and Save. The revolution is here</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canadaday</s:tag>
+    <s:tag>escada</s:tag>
+    <s:tag>joyful</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4262288004</id>
+      <title>Escada &quot;S&quot; W 50ml Boxed</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>ESCADSFORW-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/4262288004</id>
+      <title>Escada &quot;S&quot; W 90ml Boxed</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>ESCADASFENW-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fragrancebuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fragrancebuy.ca/collections/etro.atom"/>
+  <title>Fragrancebuy.ca</title>
+  <updated>2021-06-03T10:40:48-04:00</updated>
+  <author>
+    <name>Fragrancebuy.ca</name>
+  </author>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593315438654</id>
+    <published>2021-06-03T10:40:48-04:00</published>
+    <updated>2021-06-03T10:40:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etroambra-man"/>
+    <title>Etro Ambra For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroAmbra-man.jpg?v=1624037555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            93.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Ambra </span><span>For Man/Woman,</span><span> with prices starting as low as $150. This fragrance retails for $186.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593315438654</id>
+      <title>Etro Ambra EDT M 100ml Boxed</title>
+      <s:price currency="CAD">93.00</s:price>
+      <s:sku>ETRAMBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593314979902</id>
+    <published>2021-06-03T10:38:28-04:00</published>
+    <updated>2021-06-03T10:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etroetra-man"/>
+    <title>Etro Etra For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroEtra-man.jpg?v=1624037587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            93.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Etra </span><span>For Man/Woman,</span><span> with prices starting as low as $150. This fragrance retails for $186.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593314979902</id>
+      <title>Etro Etra EDT M 100ml Boxed</title>
+      <s:price currency="CAD">93.00</s:price>
+      <s:sku>ETRETRAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593312161854</id>
+    <published>2021-06-03T10:31:27-04:00</published>
+    <updated>2021-06-03T10:31:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etroheliotrope-man"/>
+    <title>Etro Heliotrope For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroHeliotrope-man.jpg?v=1624037616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Heliotrope </span><span>For Man/Woman,</span><span> with prices starting as low as $150. This fragrance retails for $186.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593312161854</id>
+      <title>Etro Heliotrope EDT M 100ml Boxed</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>ETRHELM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593310949438</id>
+    <published>2021-06-03T10:28:26-04:00</published>
+    <updated>2021-06-03T10:28:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etroiomyself-man"/>
+    <title>Etro Io Myself For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroIOMyself-man.jpg?v=1624037644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Io Myself </span><span>For Man/Woman,</span><span> with prices starting as low as $200. This fragrance retails for $229.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593310949438</id>
+      <title>Etro Io Myself EDT M 100ml Boxed</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>ETRIOMYSM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593309966398</id>
+    <published>2021-06-03T10:24:55-04:00</published>
+    <updated>2021-06-03T10:24:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etrolemonsorbet-man"/>
+    <title>Etro Lemon Sorbet For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroLemonSorbet-man.jpg?v=1624037681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Lemon Sorbet </span><span>For Man/Woman,</span><span> with prices starting as low as $200. This fragrance retails for $240.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593309966398</id>
+      <title>Etro Lemon Sorbet EDT M 100ml Boxed</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>ETRLESOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593305575486</id>
+    <published>2021-06-03T10:14:13-04:00</published>
+    <updated>2021-06-03T10:14:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etromagot-man"/>
+    <title>Etro Magot For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroMagot-man.jpg?v=1624037711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            93.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Magot </span><span>For Man/Woman,</span><span> with prices starting as low as $200. This fragrance retails for $240.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593305575486</id>
+      <title>Etro Magot EDT M 100ml Boxed</title>
+      <s:price currency="CAD">93.00</s:price>
+      <s:sku>ETRMAGM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593300824126</id>
+    <published>2021-06-03T09:48:14-04:00</published>
+    <updated>2021-06-03T09:48:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etromanrose-man"/>
+    <title>Etro ManRose For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroManRose-man.jpg?v=1624037776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like ManRose </span><span>For Man,</span><span> with prices starting as low as $210. This fragrance retails for $242.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593300824126</id>
+      <title>Etro ManRose EDP M 100ml Boxed</title>
+      <s:price currency="CAD">139.95</s:price>
+      <s:sku>ETRMANEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593084784702</id>
+    <published>2021-06-02T17:04:52-04:00</published>
+    <updated>2021-06-02T17:04:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etromarquetry-man"/>
+    <title>Etro Marquetry For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroMarquetry-man.jpg?v=1624037818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            77.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Marquetry </span><span>For Man/Woman,</span><span> with prices starting as low as $200. This fragrance retails for $240.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593084784702</id>
+      <title>Etro Marquetry EDP M 100ml Boxed</title>
+      <s:price currency="CAD">77.95</s:price>
+      <s:sku>ETRMARM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593083539518</id>
+    <published>2021-06-02T17:00:38-04:00</published>
+    <updated>2021-06-02T17:00:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etromessedeminuit-man"/>
+    <title>Etro Messe De Minuit For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_2c319890-234d-4db1-9d8e-cdedfbbecf2a.jpg?v=1622667640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Messe De Minuit </span><span>For Man/Woman,</span><span> with prices starting as low as $200. This fragrance retails for $240.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593083539518</id>
+      <title>Etro Messe De Minuit EDT M 100ml Boxed</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>ETRMEDEMINM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593082884158</id>
+    <published>2021-06-02T16:56:38-04:00</published>
+    <updated>2021-06-02T16:56:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etromusk-man"/>
+    <title>Etro Musk For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroMusk-man.jpg?v=1624037850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            93.00 - 200.00
+            <a href="https://fragrancebuy.ca/products/etromusk-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Musk </span><span>For Man/Woman,</span><span> with prices starting as low as $200. This fragrance retails for $264.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593082884158</id>
+      <title>Etro Musk EDP M 100ml Boxed</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku>ETRMUSKEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593082884158</id>
+      <title>Etro Musk EDT M 100ml Boxed</title>
+      <s:price currency="CAD">93.00</s:price>
+      <s:sku>ETRMUSEDTM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593081999422</id>
+    <published>2021-06-02T16:51:18-04:00</published>
+    <updated>2021-06-02T16:51:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etropaisley-man"/>
+    <title>Etro Paisley For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroPaisley-man.jpg?v=1624037888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Paisley </span><span>For Man/Woman,</span><span> with prices starting as low as $200. This fragrance retails for $240.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593081999422</id>
+      <title>Etro Paisley EDP M 100ml Boxed</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>ETRPAISM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593080754238</id>
+    <published>2021-06-02T16:45:01-04:00</published>
+    <updated>2021-06-02T16:45:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etropatchouly-man"/>
+    <title>Etro Patchouly For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroPatchouly-man.jpg?v=1624037922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            99.00 - 135.00
+            <a href="https://fragrancebuy.ca/products/etropatchouly-man">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Patchouly </span><span>For Man/Woman,</span><span> with prices starting as low as $135. This fragrance retails for $185.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593080754238</id>
+      <title>Etro Patchouly EDP M 100ml Boxed</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku>ETRPATEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593080754238</id>
+      <title>Etro Patchouly EDT M 100ml Boxed</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>ETRPATM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593080361022</id>
+    <published>2021-06-02T16:41:31-04:00</published>
+    <updated>2021-06-02T16:41:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etropegaso-man"/>
+    <title>Etro Pegaso For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroPegaso-man.jpg?v=1624037966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            93.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Pegaso </span><span>For Man/Woman,</span><span> with prices starting as low as $135. This fragrance retails for $185.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593080361022</id>
+      <title>Etro Pegaso EDT M 100ml Boxed</title>
+      <s:price currency="CAD">93.00</s:price>
+      <s:sku>ETRPEGM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593079771198</id>
+    <published>2021-06-02T16:39:08-04:00</published>
+    <updated>2021-06-02T16:39:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etrorajasthan-woman"/>
+    <title>Etro Rajasthan For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroRajasthan-woman.jpg?v=1624037992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Rajasthan </span><span>For Woman,</span><span> with prices starting as low as $200. This fragrance retails for $240.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593079771198</id>
+      <title>Etro Rajasthan EDP M 100ml Boxed</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku>ETRRAJSTEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593078984766</id>
+    <published>2021-06-02T16:35:48-04:00</published>
+    <updated>2021-06-02T16:35:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etroshaalnur-woman"/>
+    <title>Etro Shaal Nur For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/newfragimagenl_grande_a99df0cd-cff8-4587-95f7-c0b4be426619.jpg?v=1622666150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Shaal Nur </span><span>For Woman,</span><span> with prices starting as low as $145. This fragrance retails for $185.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593078984766</id>
+      <title>Etro Shaal Nur EDT M 100ml Boxed</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>ETRSHANUM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593078231102</id>
+    <published>2021-06-02T16:32:37-04:00</published>
+    <updated>2021-06-02T16:32:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etroudaipur-man"/>
+    <title>Etro Udaipur For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroUdaipur-man.jpg?v=1624038049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Udaipur </span><span>For Man/Woman,</span><span> with prices starting as low as $235. This fragrance retails for $264.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593078231102</id>
+      <title>Etro Udaipur EDP M 100ml Boxed</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku>ETRUDAEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593077248062</id>
+    <published>2021-06-02T16:28:41-04:00</published>
+    <updated>2021-06-02T16:28:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etroviaverri-man"/>
+    <title>Etro Via Verri For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroViaVerri-man.jpg?v=1624038093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Via Verri </span><span>For Man/Woman,</span><span> with prices starting as low as $135. This fragrance retails for $168.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593077248062</id>
+      <title>Etro Via Verri  EDT M 100ml Boxed</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>ETRVIAVERM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/6593076035646</id>
+    <published>2021-06-02T16:23:05-04:00</published>
+    <updated>2021-06-02T16:23:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etrovicolofiori-woman"/>
+    <title>Etro Vicolo Fiori For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/EtroVicoloFiori-woman.jpg?v=1624038130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            109.95 - 145.00
+            <a href="https://fragrancebuy.ca/products/etrovicolofiori-woman">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The house of Etro produces beautiful high quality niche and designer fragrances that are well known throughout the world. At Fragrance buy our goal is to bring these creations to our fellow Canadian customers and offer great value and the lowest price. Fragrancebuy offers substantial savings and discounts on Etro perfumes like Vicolo Fiori </span><span>For Woman,</span><span> with prices starting as low as $145. This fragrance retails for $185.00 meaning you save even more and get the best possible deal. Get the best price on the newest Etro perfume online at Fragrancebuy Canada. Authentic perfumes and beauty products that get the most compliments and last for a long time!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593076035646</id>
+      <title>Etro Vicolo Fiori  EDP W 100ml Boxed</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>ETRVICFIOEDPW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/6593076035646</id>
+      <title>Etro Vicolo Fiori  EDT W 100ml Boxed</title>
+      <s:price currency="CAD">145.00</s:price>
+      <s:sku>ETRVICFIW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/1320287240254</id>
+    <published>2018-04-19T17:21:04-04:00</published>
+    <updated>2018-04-19T17:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etrogomma-man"/>
+    <title>Etro Gomma For Man/Woman</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/etrogomma-man.jpg?v=1588264028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Etro Gomma Mens Cologne | Fragrancebuy - Buy Direct and Save. The revolution is here</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/1320287240254</id>
+      <title>Etro Gomma EDT M 100ml Boxed</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>ETROGAMM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fragrancebuy.ca/products/143327428623</id>
+    <published>2016-02-10T18:03:00-05:00</published>
+    <updated>2016-02-10T18:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fragrancebuy.ca/products/etrovetiver-man"/>
+    <title>Etro Vetiver For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Etro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0274/8363/products/etrovetiver-man.jpg?v=1588264048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Etro<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Online warehouse sale. Guaranteed best price in Canada for Etro Vetiver Man Cologne Fragrance | Fragrancebuy - Buy Direct and Save. The revolution is here</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 gold</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>scentstory</s:tag>
+    <s:tag>story</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>woman</s:tag>
+    <s:variant>
+      <id>https://fragrancebuy.ca/products/143327428623</id>
+      <title>Tester - Etro Vetiver EDT M 100ml Tester</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>ETERVETOM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>
